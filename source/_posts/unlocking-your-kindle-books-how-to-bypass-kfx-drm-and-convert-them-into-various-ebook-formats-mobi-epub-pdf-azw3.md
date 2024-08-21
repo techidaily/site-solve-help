@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Kindle Books: How to Bypass KFX DRM & Convert Them Into Various eBook Formats (MOBI, EPUB, PDF, AZW3)"
-date: 2024-08-18 16:53:30
-updated: 2024-08-21 12:12:10
+date: 2024-08-20T09:41:30.151Z
+updated: 2024-08-21T09:41:30.151Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
@@ -45,16 +45,25 @@ A complete KFX eBook downloaded via Kindle for PC/Mac higher than version 1.19 a
 
 ![KFX-Content-via-Kindle-for-PC](http://www.epubor.com/images/uppic/KFX-Content-via-Kindle-for-PC.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 The files that make up a KFX eBook downloaded via Kindle eInk device differ from those comprised of a KFX book downloaded via Kindle for PC/Mac. Under Kindle/Documents, you’ll see a book title with .kfx extension and a folder named after the book title with .sdr extension:
 
 ![kfx-main-container-via-Kindle-device](http://www.epubor.com/images/uppic/kfx-main-container-via-Kindle-device.png)
 
 ![sdr-folder](http://www.epubor.com/images/uppic/sdr-folder.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Within the sdr folder, there’s a subfolder called asset, see the contents in the asset folder shown in the screenshot below:
 
 ![contents-in-assets-folder](http://www.epubor.com/images/uppic/contents-in-assets-folder.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 As you can see that books in KFX format are usually composed of multiple KFX container files. The entire set of KFX files that make up the book is required for successful DRM removal and format conversion.
 
 ### How to remove KFX DRM and convert KFX to mobi/pdf/epub/azw3?
@@ -83,10 +92,16 @@ KFX books downloaded from Kindle for PC/Mac v1.19 or later are saved in **.azw e
 
 ![decrypt-kfx-via-Kindle-for-PC](http://www.epubor.com/images/uppic/decrypt-kfx-via-Kindle-for-PC.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can see a checkmark and "Decrypted" next to the KFX books you've removed DRM from. Click on "Decrypted", the decrypted file output folder will prompt automatically.
 
 ![decrypted-kfx-output-folder](http://www.epubor.com/images/uppic/decrypted-kfx-output-folder.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 On the bottom part, you can choose the output conversion format, click “Convert to XXX” button, and the program starts to decrypt the books and convert the formats simultaneously. Once the conversion is done, you will see "Succeeded" at the end of the book title and you can click "Succeeded" to open the folder stored the converted ebooks.
 
 ![kfx-converted-to-epub](http://www.epubor.com/images/uppic/kfx-converted-to-epub.png)
@@ -107,6 +122,9 @@ Suggested reading:
 
 ![author](http://www.epubor.com/images/uppic/Sisi.png)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 [Sisi Liu](https://www.facebook.com/sisi.liu.737) Sisi is a newbie who joined Epubor in November 2017\. She's a bookworm her whole life and has taken great interest in eBooks recently. She learns professional knowledge about ebooks in Epubor and loves to share her know-how to all the ebook lovers!
 
 SHARING IS GREAT!

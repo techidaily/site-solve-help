@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Kindle Potential: Advanced Techniques for eBook Navigation & Management"
-date: 2024-08-19 11:44:16
-updated: 2024-08-21 10:22:35
+date: 2024-08-20T09:41:30.421Z
+updated: 2024-08-21T09:41:30.421Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c11c9903f383663675146f0a.jpg
@@ -39,6 +39,9 @@ I think everyone knows that how to change font size on Kindle, just tap the top 
 
 That's it, very simple to do. If you don't know it before, try it now.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Tip 2: How to Take a Screenshot on Kindle?
 
 ![take screenshot on kindle](http://www.epubor.com/images/uppic/Kindle-Paperwhite-Screenshot.png)
@@ -53,6 +56,9 @@ That's it, very simple to do. If you don't know it before, try it now.
 
 if you want to get the screenshot, just connect your eReader to the computer, and find them in the documents folder or root folder.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 3: Where are Kindle Books Stored?
 
 Kindle for PC/MAC app will create a folder to store all your downloaded books, sometimes you may want to find books by yourself, below there are locations to find default Kindle folder:
@@ -69,6 +75,17 @@ For Mac user, click "Preferences" from the Kindle menu. In the General tab, you 
 
 ![where are kindle books stored](http://www.epubor.com/images/uppic/kindle-books-location.png)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 4: Where is Kindle Personal Email Address?
 
 You can find your Kindle personal email address on Kindle eReader or Amazon website.
@@ -85,6 +102,9 @@ Click the device or app you want, and you will see the Kindle Personal Email Add
 
 ![Kindle-personal email address](http://www.epubor.com/images/uppic/kindle-personal-email-address.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 5: Set Password to Protect Your Kindle
 
 Though you may think this is a funny question but it is true that we can install apps to our kindle paperwhite. 
@@ -111,6 +131,9 @@ You may don't like the default font on Kindle and want to add custom font to you
 
 ![add fonts to kindle paperwhite](http://www.epubor.com/images/uppic/add-fonts-to-kindle-paperwhite.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 First, you need to remove DRM from your Kindle books, so that it can be edit. You can use [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/) or Calibre to remove Kindle DRM.
 
 Second, Convert the DRM-free books to AZW3 format with Calibre, when converting it, you can add the custom font which you like.

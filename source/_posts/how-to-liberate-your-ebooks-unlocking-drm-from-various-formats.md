@@ -1,7 +1,7 @@
 ---
 title: How to Liberate Your Ebooks - Unlocking DRM From Various Formats
-date: 2024-08-18 19:50:49
-updated: 2024-08-21 11:10:57
+date: 2024-08-20T09:41:30.272Z
+updated: 2024-08-21T09:41:30.272Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848bd43ebfc7e5000f0a5d34387.jpg
@@ -35,3 +35,7 @@ Support OS: Mac OS X 10.14 and later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->

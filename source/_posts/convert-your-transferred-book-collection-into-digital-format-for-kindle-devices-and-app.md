@@ -1,7 +1,7 @@
 ---
 title: Convert Your Transferred Book Collection Into Digital Format for Kindle Devices & App
-date: 2024-08-18 23:26:21
-updated: 2024-08-21 12:17:46
+date: 2024-08-20T09:41:30.215Z
+updated: 2024-08-21T09:41:30.215Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg
@@ -77,6 +77,9 @@ Here I take Kindle Paperwhite as the example.
 
 ![copy books to Kindle Paperwhite](http://www.epubor.com/images/uppic/kt_paperwhite_copy.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 **3** Eject Kindle from computer. The sideloaded books will display under "Device" shelf.
 
 ![Transfer books to Kindle Paperwhite](http://www.epubor.com/images/uppic/kt_paperwhite_transfer.png)
@@ -97,6 +100,9 @@ Here I take the Kindle Fire for example.
 
 ![Transfer books to Kindle Fire (HD)](http://www.epubor.com/images/uppic/kt_kf_transfer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Send-to-Kindle E-mail Address of Kindle Fire:**
 
 Note that Kindle Fire (HD) does not come with a USB cable. If you don't have a USB cable, [transfer MOBI or PDF books to it wirelessly](https://tools.techidaily.com/epubor/products/).
@@ -109,10 +115,20 @@ Note that Kindle Fire (HD) does not come with a USB cable. If you don't have a U
 
 ![copy books to Kindle Android](http://www.epubor.com/images/uppic/kt_android_copy.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 **3** Tap the menu icon in the top right corner of Kindle app, then select "On Device" to check the transferred books.
 
 ![Transfer books to Kindle Android app](http://www.epubor.com/images/uppic/kt_android_transfer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 #### **4\. Transfer MOBI/PDF Books to Kindle App for iOS**
 
 There is no way to directly transfer MOBI books to Kindle app for iOS with iTunes. In this case, we can use Kindle email system to send personal MOBI books to the email address of Kindle for iPad app. PDF files can be transferred to iPad with iTunes (opened with Apple Books by default) or with Kindle for iOS email address (opened with Kindle app for iOS by default).
@@ -135,10 +151,16 @@ Visit Manage Your Kindle to sign in, go to "Your Kindle Account" from the left s
 
 ![send to Kindle - add to list](http://www.epubor.com/images/uppic/kt_email_list.png)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2** Compose an empty email (empty subject and empty body), attach your MOBI or PDF docs and input the Send-to-Kindle E-mail address to send.
 
 ![send to Kindle - compose](http://www.epubor.com/images/uppic/kt_email_send_201359399.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tap sync icon on the Kindle device or Kindle app. In minutes, you will find the sent MOBI and PDF docs under "All Items" and "Docs" category (Cloud). (This screenshot was taken on Nexus 7.)
 
 ![received books through "send to Kindle" email address](http://www.epubor.com/images/uppic/kt_email_transfer.png)

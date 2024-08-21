@@ -1,7 +1,7 @@
 ---
 title: Calibre Tutorial for Changing EPUB Files Into KEA Formats Successfully
-date: 2024-08-20 17:44:56
-updated: 2024-08-21 11:14:37
+date: 2024-08-20T09:41:30.468Z
+updated: 2024-08-21T09:41:30.468Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e5e03af8173f938324bb194b.png
@@ -296,3 +296,7 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "A Guide: Modifying the Display Settings and Screensavers on Amazon Kindle Fire HD 10 Tablet"
-date: 2024-08-20 15:44:39
-updated: 2024-08-21 10:26:18
+date: 2024-08-20T09:41:30.170Z
+updated: 2024-08-21T09:41:30.170Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414afa88e6a5b8f7881f823fc3c.jpg
@@ -29,6 +29,9 @@ You may hate hearing words like jailbreak, root, hacking. They sound so complica
 
 If you do as the tutorial says, the device won't get bricked easily.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2\. Install screensaver hack
 
 Now you have to install some files on the device. We need two files: the Python pack and the screensaver hack. Click here to download these two files: [kindle-python-0.8.N.zip](http://download.epubor.com/source/kindle-python-0.8.N.zip) and [kindle-linkss-0.15.N.zip](http://download.epubor.com/source/kindle-linkss-0.15.N.zip).
@@ -37,14 +40,23 @@ First we need to install the Python pack. Extract _**kindle-python-0.x.N.zip**_ 
 
 ![python-file](https://www.epubor.com/images/remote/D4/1D/D41D8C_1-python-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 Connect Kindle Paperwhite to computer and copy this file to the root directory. Then eject the device and go to Menu – Setting – Menu. Choose "Update your Kindle" and wait for the updating process finishes. Then connect Paperwhite to computer again.
 
 ![update-device](https://www.epubor.com/images/remote/D4/1D/D41D8C_2-update-device.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 Second, we need to install the screensaver hack. The process is as the same as above. Extract _**kindle-linkss-0.1x.N.zip**_ file and copy the _**update\_linkss\_0.1x.N\_install.bin**_ file to the root directory of Kindle Paperwhite.
 
 ![screensaver-hack](https://www.epubor.com/images/remote/D4/1D/D41D8C_3-screensaver-hack.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 Eject Kindle Paperwhite from computer and update it again. After updating finishes, connect the device to computer. You will find three new folders at the root directory.
 
 ![new-folders](https://www.epubor.com/images/remote/D4/1D/D41D8C_4-new-folders.jpg)
@@ -53,10 +65,16 @@ Open the "**linkss**" folder and you'll find a folder called "screensaver". This
 
 ![change-kindle-paperwhite-screensaver](https://www.epubor.com/images/remote/D4/1D/D41D8C_5-screensaver-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 Now just put the new screensaver to this folder and everything is done. Remember that the new screensaver should be a .png file and has a dimension of 758\*1024\. You can get more screensaver from this post:[7 Places to Download Kindle Screensavers](https://tools.techidaily.com/epubor/products/)
 
 ![author](https://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
