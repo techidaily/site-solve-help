@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Backing Up Your Mac Using an External HDD – With and Without Time Machine"
-date: 2024-08-26 13:22:55
-updated: 2024-08-27 12:26:19
+date: 2024-08-30T10:51:51.537Z
+updated: 2024-08-31T10:51:51.537Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/b7b3d8c39a821649dc44d49c09139a20a97e41dfca3f0d118aeffb822a7ad834.jpg
@@ -83,6 +83,9 @@ _[External hard drive not showing on Mac](https://tools.techidaily.com/macxdvd/p
 * Restart your Mac. A simple restart always solves problems.
 * Erase and reformat the external hard drive for Mac. Backup data first before reformatting as reformatting will delete all the data.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fast Copy DVD to External Hard Drive with High Quality
 
 MacX DVD Ripper Pro is able to rip any DVD, including damaged ones, unplayable DVDs, 99-title DVDs, protected DVDs, Japanese DVDs, workout DVDs and more, to external hard drive partitions for backup and easier playback and management with ease and No.1 fast speed and original quality.
@@ -99,6 +102,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Best SSDs for Mac in 2024 You Must Never Miss](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
@@ -115,20 +121,36 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [How to copy your DVD movie library to hard drive on Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -168,3 +190,40 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-eliminating-odd-shades-a-step-by-step-guide-to-flawless-greenscreens/"><u>[Updated] 2024 Approved  Eliminating Odd Shades  A Step-by-Step Guide to Flawless Greenscreens</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-endless-entertainment-your-ultimate-youtube-movies-list/"><u>[Updated] 2024 Approved  Endless Entertainment  Your Ultimate YouTube Movies List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-for-crafting-top-notch-video-hashtags/"><u>[Updated] Expert Tips for Crafting Top-Notch Video Hashtags</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-jokes-and-puns-iphone-edition/"><u>[Updated] Jokes and Puns  IPhone Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-9gag-for-making-memes-a-step-by-step-guide/"><u>[Updated] Mastering 9GAG for Making Memes  A Step-by-Step Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimizing-social-media-for-vimeo-sharing/"><u>[Updated] Optimizing Social Media for Vimeo Sharing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hits-and-misses-the-photographers-account/"><u>2024 Approved  Hits and Misses  The Photographer's Account</u></a></li>
+<li><a href="https://solve-help.techidaily.com/access-over-50-audiobook-websites-for-instant-listening-no-downloads-required/"><u>Access Over 50 Audiobook Websites for Instant Listening - No Downloads Required!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/advanced-strategies-for-optimizing-website-visibility-in-search-results/"><u>Advanced Strategies for Optimizing Website Visibility in Search Results</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/apple-m1-pro-vs-m1-max-whats-the-difference/"><u>Apple M1 Pro Vs. M1 Max  What's the Difference?</u></a></li>
+<li><a href="https://solve-help.techidaily.com/calibre-tutorial-for-changing-epub-files-into-kea-formats-successfully/"><u>Calibre Tutorial for Changing EPUB Files Into KEA Formats Successfully</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claim-the-future-of-tech-understanding-claudes-potential-impact/"><u>Claim the Future of Tech: Understanding Claude's Potential Impact</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comment-changer-un-fichier-pdf-en-format-epub-pour-lecture-sur-ipad/"><u>Comment Changer Un Fichier PDF en Format ePub Pour Lecture Sur iPad ?</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comparing-e-readers-kindle-ibooks-and-nook-showdown/"><u>Comparing E-Readers: Kindle, iBooks, and Nook Showdown</u></a></li>
+<li><a href="https://solve-help.techidaily.com/compatible-with-kindle-a-guide-to-using-your-sony-ebook-reader-for-amazons-digital-library/"><u>Compatible with Kindle: A Guide to Using Your Sony eBook Reader for Amazon's Digital Library</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comprehensive-guide-how-to-safely-extract-drm-protection-from-epub-pdf-and-azw-digital-books/"><u>Comprehensive Guide: How to Safely Extract DRM Protection From EPUB, PDF, and AZW Digital Books</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comprehensive-guide-transforming-aax-files-into-mp3-format-all-your-questions-answered/"><u>Comprehensive Guide: Transforming AAX Files Into MP3 Format - All Your Questions Answered!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/convert-epub-books-to-pdf-format-a-comprehensive-guide/"><u>Convert EPUB Books to PDF Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/discover-amazons-must-read-list-the-ultimate-selection-of-the-100-most-popular-kindle-writers/"><u>Discover Amazon's Must-Read List: The Ultimate Selection of the 100 Most Popular Kindle Writers</u></a></li>
+<li><a href="https://solve-help.techidaily.com/discover-essential-insights-with-epubors-expert-answer-hub-the-definitive-faq-collection/"><u>Discover Essential Insights with Epubor's Expert Answer Hub – The Definitive FAQ Collection</u></a></li>
+<li><a href="https://solve-help.techidaily.com/download-tool-for-removing-amazons-kindle-digital-rights-management-drm/"><u>Download Tool for Removing Amazon's Kindle Digital Rights Management (DRM)</u></a></li>
+<li><a href="https://solve-help.techidaily.com/drm-free-conversion-how-ineptpdf-automates-the-bypass-process/"><u>DRM-Free Conversion: How IneptPDF Automates the Bypass Process</u></a></li>
+<li><a href="https://solve-help.techidaily.com/find-your-favorite-songs-in-mp3-format-quick-download-tips/"><u>Find Your Favorite Songs in MP3 Format – Quick Download Tips!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/guia-paso-a-paso-para-repartir-tus-ebooks-de-amazon-kindle-entre-tus-compiniones/"><u>Guía Paso a Paso Para Repartir Tus Ebooks De Amazon Kindle Entre Tus Compiniones</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-enjoy-audiobook-content-on-amazons-kindle-a-five-step-guide/"><u>How to Enjoy Audiobook Content on Amazon's Kindle: A Five-Step Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-make-your-translated-e-books-appear-on-amazons-kindle-store/"><u>How to Make Your Translated E-Books Appear on Amazon's Kindle Store</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-transform-your-kindle-azw-files-into-versatile-epub-format-an-essential-guide/"><u>How to Transform Your Kindle AZW Files Into Versatile EPUB Format: An Essential Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/immediate-guide-how-to-remove-drm-from-e-books-today/"><u>Immediate Guide: How to Remove DRM From E-Books Today!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/migrating-your-ebook-collection-how-to-move-books-from-amazon-kindle-to-kobos-clara-hd/"><u>Migrating Your eBook Collection: How to Move Books From Amazon Kindle to Kobo's Clara HD</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-how-to-regain-access-to-your-suspended-driving-privileges/"><u>Step-by-Step Guide: How to Regain Access to Your Suspended Driving Privileges</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-moving-amazon-kindle-library-to-your-nook-tablet-or-ereader/"><u>Step-by-Step Guide: Moving Amazon Kindle Library to Your Nook Tablet or EReader</u></a></li>
+<li><a href="https://solve-help.techidaily.com/unlocking-your-kindle-books-how-to-bypass-kfx-drm-and-convert-them-into-various-ebook-formats-mobi-epub-pdf-azw3/"><u>Unlocking Your Kindle Books: How to Bypass KFX DRM & Convert Them Into Various eBook Formats (MOBI, EPUB, PDF, AZW3)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unseen-influences-on-your-viewing-habits-of-stories-for-2024/"><u>Unseen Influences on Your Viewing Habits of Stories for 2024</u></a></li>
+</ul></div>

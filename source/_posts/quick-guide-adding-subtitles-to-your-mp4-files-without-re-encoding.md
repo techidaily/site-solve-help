@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Adding Subtitles to Your MP4 Files Without Re-Encoding"
-date: 2024-08-24 13:56:13
-updated: 2024-08-27 12:49:46
+date: 2024-08-30T10:52:28.519Z
+updated: 2024-08-31T10:52:28.519Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a3b54451e87f8a05d4dd9575.jpg
@@ -40,6 +40,9 @@ At the very beginning of the task, a professional MP4 subtitles merger is deemed
 * [Part 1: Download External SRT Subtitles](https://tools.techidaily.com/macxdvd/products/)
 * [Part 2: How to Add Subtitles to MP4 Video File on Mac OS X](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Download External SRT Subtitles or Create Your Own Subtitles before Adding to MP4
 
 This part is available for people who do not have any .srt subtitles or who want to add some of their own words to the .srt subtitles displayed onscreen. If you have saved SRT subtitles you need, just skip this part and directly move to [part 2 to add subtitles to an .mp4 movie](https://tools.techidaily.com/macxdvd/products/). 
@@ -86,6 +89,9 @@ ABOUT THE AUTHOR
 
 ![author- candice](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/candice.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Candice Liu ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/candice-liu-444483a3/) 
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
@@ -104,6 +110,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [How to Add Subtitles to iMovie Video Project](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
@@ -112,10 +121,16 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [How to Add SRT Subtitles to Movie Files](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [How to Hardcode SRT Subtitles to MKV Video Movie Files](https://tools.techidaily.com/macxdvd/products/) 
 
 
@@ -124,12 +139,18 @@ Related Articles
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -138,6 +159,14 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -169,3 +198,54 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-to-success-top-hashtags-for-6-figure-views-on-youtube/"><u>[New] In 2024, Elevate to Success  Top Hashtags for 6-Figure Views on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-band-performances-web/"><u>[New] Premier Band Performances Web</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-ultimate-9-hidden-media-extractors/"><u>[Updated] 2024 Approved  Ultimate 9 Hidden Media Extractors</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1-unlocking-efficiency-the-ultimate-guide-to-using-mac-computers/"><u>1. Unlocking Efficiency: The Ultimate Guide to Using @Mac Computers</u></a></li>
+<li><a href="https://solve-help.techidaily.com/a-guide-modifying-the-display-settings-and-screensavers-on-amazon-kindle-fire-hd-10-tablet/"><u>A Guide: Modifying the Display Settings and Screensavers on Amazon Kindle Fire HD 10 Tablet</u></a></li>
+<li><a href="https://solve-help.techidaily.com/best-free-malware-protection-software-for-kindle-fire-tablets-top-picks/"><u>Best FREE Malware Protection Software for Kindle Fire Tablets – Top Picks!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/best-top-5-ebook-reader-apps-compatible-with-azw3-on-android-devices/"><u>Best Top 5 eBook Reader Apps Compatible with AZW3 on Android Devices</u></a></li>
+<li><a href="https://solve-help.techidaily.com/convert-your-transferred-book-collection-into-digital-format-for-kindle-devices-and-app/"><u>Convert Your Transferred Book Collection Into Digital Format for Kindle Devices & App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-functional-logitech-g-pro-x-headset-mic/"><u>Diagnosing and Repairing Non-Functional Logitech G Pro X Headset Mic</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-excellence-of-msfsx-gold-edition-the-ultimate-flight-simulation-experience-evaluated/"><u>Discover the Excellence of MSFSX Gold Edition: The Ultimate Flight Simulation Experience Evaluated</u></a></li>
+<li><a href="https://solve-help.techidaily.com/download-our-top-rated-tools-and-complimentary-ebooks-your-ultimate-free-resources-hub/"><u>Download Our Top-Rated Tools & Complimentary Ebooks - Your Ultimate Free Resources Hub</u></a></li>
+<li><a href="https://solve-help.techidaily.com/drm-free-conversion-guide-how-to-liberate-your-ebooks-from-restrictive-formats/"><u>DRM-Free Conversion Guide: How to Liberate Your eBooks From Restrictive Formats</u></a></li>
+<li><a href="https://solve-help.techidaily.com/entfernung-von-epub-drm-schritt-fur-schritt-anleitung-zum-wiederherstellen-ihrer-bucher/"><u>Entfernung Von EPUB DRM: Schritt-Für-Schritt-Anleitung Zum Wiederherstellen Ihrer Bücher.</u></a></li>
+<li><a href="https://solve-help.techidaily.com/essential-strategies-mastering-the-basics-of-starting-your-audiobook-journey/"><u>Essential Strategies: Mastering the Basics of Starting Your Audiobook Journey</u></a></li>
+<li><a href="https://solve-help.techidaily.com/free-demo-version-experience-before-you-buy/"><u>Free Demo Version: Experience Before You Buy</u></a></li>
+<li><a href="https://solve-help.techidaily.com/guide-complet-pour-desactiver-et-enlever-les-drm-sur-divers-formats-de-livres-electroniques-comme-lepub-le-pdf-lazw-et-le-prc/"><u>Guide Complet Pour Désactiver Et Enlever Les DRM Sur Divers Formats De Livres Électroniques Comme L'EPUB, Le PDF, L'AZW, Et Le PRC</u></a></li>
+<li><a href="https://solve-help.techidaily.com/guide-to-removing-digital-restrictions-for-ebooks-in-various-formats-including-epub-pdf-and-azw/"><u>Guide to Removing Digital Restrictions for eBooks in Various Formats Including ePUB, PDF, and AZW</u></a></li>
+<li><a href="https://solve-help.techidaily.com/guide-migrating-your-single-user-program-license-across-multiple-computers/"><u>Guide: Migrating Your Single-User Program License Across Multiple Computers</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-liberate-your-ebooks-unlocking-drm-from-various-formats/"><u>How to Liberate Your Ebooks - Unlocking DRM From Various Formats</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-voice-memo-on-iphone-in-2024/"><u>How to Record Voice Memo on iPhone, In 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/identifying-digital-rights-management-on-your-ebook/"><u>Identifying Digital Rights Management on Your eBook</u></a></li>
+<li><a href="https://solve-help.techidaily.com/identifying-your-kindle-fire-generation-key-features-and-distinguishing-traits/"><u>Identifying Your Kindle Fire Generation: Key Features & Distinguishing Traits</u></a></li>
+<li><a href="https://solve-help.techidaily.com/is-it-permissible-to-converting-non-drm-files-into-the-epub-ebook-format/"><u>Is It Permissible to Converting Non-DRM Files Into the ePUB Ebook Format?</u></a></li>
+<li><a href="https://solve-help.techidaily.com/license-approval-pending-why-the-confirmation-email-is-missing/"><u>License Approval Pending: Why the Confirmation Email Is Missing?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lut-enthusiasts-delight-free-bundles-with-dji-minis-and-air-2/"><u>LUT Enthusiasts' Delight – Free Bundles with DJI Minis & Air 2</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-tech-experience-maintain-win-11-alerts/"><u>Optimizing Your Tech Experience: Maintain Win 11 Alerts</u></a></li>
+<li><a href="https://solve-help.techidaily.com/overcoming-setbacks-strategies-for-success-after-failure/"><u>Overcoming Setbacks: Strategies for Success After Failure</u></a></li>
+<li><a href="https://solve-help.techidaily.com/read-kindle-stories-on-kobo-vox-your-ultimate-digital-reading-experience/"><u>Read Kindle Stories on Kobo Vox - Your Ultimate Digital Reading Experience</u></a></li>
+<li><a href="https://solve-help.techidaily.com/removing-amazons-digital-restrictions-a-comprehensive-tutorial-for-kindle-ebook-liberation/"><u>Removing Amazon's Digital Restrictions: A Comprehensive Tutorial for Kindle eBook Liberation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-driver-update-logitec-mouse-for-win-7-gamers/"><u>Seamless Driver Update: Logitec Mouse for Win 7 Gamers</u></a></li>
+<li><a href="https://solve-help.techidaily.com/simple-steps-mastering-the-art-of-modifying-ebook-tags-using-ultimate-converter/"><u>Simple Steps: Mastering the Art of Modifying eBook Tags Using Ultimate Converter</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-on-bypassing-drm-restrictions-in-sony-e-book-content/"><u>Step-by-Step Guide on Bypassing DRM Restrictions in Sony E-Book Content</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-how-to-uninstall-programs-and-remove-comments/"><u>Step-by-Step Guide: How to Uninstall Programs and Remove Comments</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-removing-drm-protection-from-ebooks-chapter-17/"><u>Step-by-Step Guide: Removing DRM Protection From eBooks Chapter 17</u></a></li>
+<li><a href="https://solve-help.techidaily.com/the-art-of-engaging-readers-effective-strategies-for-captivating-your-audience/"><u>The Art of Engaging Readers: Effective Strategies for Captivating Your Audience</u></a></li>
+<li><a href="https://solve-help.techidaily.com/the-best-7-mobile-applications-for-streaming-audiobooks-on-android-devices/"><u>The Best 7 Mobile Applications for Streaming Audiobooks on Android Devices</u></a></li>
+<li><a href="https://solve-help.techidaily.com/the-complete-manual-to-enjoy-ebooks-on-your-nexus-7-device/"><u>The Complete Manual to Enjoy eBooks on Your Nexus 7 Device</u></a></li>
+<li><a href="https://solve-help.techidaily.com/the-leading-4-free-e-book-authoring-platforms-unveiling-the-best-picks/"><u>The Leading 4 Free E-Book Authoring Platforms - Unveiling the Best Picks</u></a></li>
+<li><a href="https://solve-help.techidaily.com/the-ultimate-guide-to-choosing-an-excellent-book-reading-app-for-ipads/"><u>The Ultimate Guide to Choosing an Excellent Book Reading App for iPads</u></a></li>
+<li><a href="https://solve-help.techidaily.com/the-ultimate-guide-to-enjoying-digital-books-on-windows-8-devices-surface-tabloid-and-professional/"><u>The Ultimate Guide to Enjoying Digital Books on Windows 8 Devices: Surface Tabloid and Professional</u></a></li>
+<li><a href="https://solve-help.techidaily.com/top-3-e-book-subscription-sites-of-2017-a-comprehensive-guide/"><u>Top 3 E-Book Subscription Sites of 2017: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/top-5-no-cost-antivirus-apps-for-your-kindle-fire-device/"><u>Top 5 No-Cost Antivirus Apps for Your Kindle Fire Device</u></a></li>
+<li><a href="https://solve-help.techidaily.com/top-9-insider-tips-for-maximizing-your-kindle-paperwhite-experience-on-amazon/"><u>Top 9 Insider Tips for Maximizing Your Kindle Paperwhite Experience on Amazon</u></a></li>
+<li><a href="https://solve-help.techidaily.com/transforming-mp3-files-into-audiobooks-a-step-by-step-guide-with-itunes/"><u>Transforming MP3 Files Into Audiobooks: A Step-by-Step Guide with iTunes</u></a></li>
+<li><a href="https://solve-help.techidaily.com/transforming-reading-experience-step-by-step-guide-on-converting-epubs-for-kindle-enthusiasts/"><u>Transforming Reading Experience: Step-by-Step Guide on Converting EPUBs for Kindle Enthusiasts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-6-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 6 Plus</u></a></li>
+<li><a href="https://solve-help.techidaily.com/ultimate-guide-preserving-your-audible-audiobooks/"><u>Ultimate Guide: Preserving Your Audible Audiobooks</u></a></li>
+</ul></div>

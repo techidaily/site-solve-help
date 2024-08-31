@@ -1,7 +1,7 @@
 ---
 title: OnePlus 12 Comprehensive Analysis - A Cost-Effective Substitute for High-End iPhones & Samsung Galaxies
-date: 2024-08-28 21:40:48
-updated: 2024-08-29 10:29:18
+date: 2024-08-30T10:51:23.976Z
+updated: 2024-08-31T10:51:23.976Z
 tags:
   - product-reviews
 categories:
@@ -129,6 +129,9 @@ Sergio Rodriguez / How-To Geek
 
  I wasn’t shocked or blown away by any aspect of the hardware (or phone in general), but everything felt polished like a high-end device. For example, if I were buying this phone, I wouldn’t feel like I was missing out on much better specs going with this handset over any other one at the moment. On the software side, the phone runs OxygenOS 14\. Its system tweaks have been toned down over the years, and it generally feels pretty stock. Most people shouldn't run into any issues with it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Is the OnePlus 12 Camera as Good as It Seems?
 
 Close 
@@ -143,8 +146,19 @@ Tyler Hayes / How-To Geek
 
 ![OnePlus12-3x](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/oneplus12-3x.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![OnePlus12-0.6x](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/oneplus12-0-6x.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![OnePlus12-6x](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/oneplus12-6x.jpg) 
 
 Close 
@@ -161,6 +175,9 @@ Close
 
  None of the sample images in these galleries have been edited. They have been provided to give a glimpse at camera results for different scenes at different times of the day in their default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Charging and Battery Life Are Great
 
 ![OnePlus folder on the OnePlus 12](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/oneplus-folder-on-the-oneplus-12.jpg) 
@@ -175,12 +192,18 @@ Sergio Rodriguez / How-To Geek
 
  But actually, I didn’t have to reach for a charging cable very often. In modest use, I found the phone’s 5400mAh battery to be plenty sufficient. I did have trouble running the battery down on one occasion so I could test its charging. Ultimately, the battery and charging story here is a positive one.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The OnePlus 12 goes on sale on February 6th, 2024\. The 256GB model retails for $799, and the 512GB retails for $899\. There are two colors available: green marble and black.
 
  If you like the idea of the OnePlus 12 but it’s still out of your price range, the company also has the [OnePlus 12R](https://www.amazon.com/OnePlus-Dual-SIM-Unlocked-Smartphone-Charging/dp/B0CQ9SZ6CP?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001842&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Foneplus-12-review%2F&asc%5Fcampaign=Affiliate), which starts at $499\. For that price, the 12R has 8GB of RAM, 128GB of storage, and gets a 120Hz refresh rate display along with the Snapdragon 8 Gen 2 processor.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the OnePlus 12?
 
 ![OnePlus12 Box and Accessories on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/oneplus12-box-accessories.jpg) 
@@ -195,6 +218,9 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  OnePlus 12
 
 8/ 10 
@@ -277,3 +303,45 @@ Expand
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-your-gaming-presence-with-these-top-14-video-ideas/"><u>[New] In 2024, Boost Your Gaming Presence with These Top 14 Video Ideas</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-a-personalized-approach-developing-an-individualistic-tiktok-keyword-for-2024/"><u>[Updated] A Personalized Approach  Developing an Individualistic TikTok Keyword for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1-access-complimentary-copyright-permissions-quickly/"><u>1. Access Complimentary Copyright Permissions Quickly</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1-how-to-transform-your-ebook-from-epub-format-to-compatible-amazon-kindle-azw3-version/"><u>1. How to Transform Your eBook From ePub Format to Compatible Amazon Kindle AZW3 Version</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerated-photography-browser-for-11-os-users-for-2024/"><u>Accelerated Photography Browser for 11 OS Users for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/access-over-50-audiobook-websites-for-instant-listening-no-downloads-required/"><u>Access Over 50 Audiobook Websites for Instant Listening - No Downloads Required!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/acsm-book-conversion-process-for-ereader-users-from-google-play-books-to-readable-formats/"><u>ACSM Book Conversion Process for Ereader Users: From Google Play Books to Readable Formats</u></a></li>
+<li><a href="https://solve-help.techidaily.com/acsm-zu-pdf-konvertierungstool-professionelle-umwandlung-von-excel-in-pdf/"><u>ACSM Zu PDF-Konvertierungstool: Professionelle Umwandlung Von Excel in PDF</u></a></li>
+<li><a href="https://solve-help.techidaily.com/advanced-strategies-for-optimizing-website-visibility-in-search-results/"><u>Advanced Strategies for Optimizing Website Visibility in Search Results</u></a></li>
+<li><a href="https://solve-help.techidaily.com/calibre-tutorial-for-changing-epub-files-into-kea-formats-successfully/"><u>Calibre Tutorial for Changing EPUB Files Into KEA Formats Successfully</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comment-changer-un-fichier-pdf-en-format-epub-pour-lecture-sur-ipad/"><u>Comment Changer Un Fichier PDF en Format ePub Pour Lecture Sur iPad ?</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comparing-e-readers-kindle-ibooks-and-nook-showdown/"><u>Comparing E-Readers: Kindle, iBooks, and Nook Showdown</u></a></li>
+<li><a href="https://solve-help.techidaily.com/compatible-with-kindle-a-guide-to-using-your-sony-ebook-reader-for-amazons-digital-library/"><u>Compatible with Kindle: A Guide to Using Your Sony eBook Reader for Amazon's Digital Library</u></a></li>
+<li><a href="https://solve-help.techidaily.com/discover-amazons-must-read-list-the-ultimate-selection-of-the-100-most-popular-kindle-writers/"><u>Discover Amazon's Must-Read List: The Ultimate Selection of the 100 Most Popular Kindle Writers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-most-advanced-long-distance-router-technologies-on-the-market/"><u>Discover the Most Advanced Long-Distance Router Technologies on the Market</u></a></li>
+<li><a href="https://solve-help.techidaily.com/effortless-mp3-upload-tutorial-for-iphone-users/"><u>Effortless MP3 Upload Tutorial for iPhone Users</u></a></li>
+<li><a href="https://solve-help.techidaily.com/find-your-favorite-songs-in-mp3-format-quick-download-tips/"><u>Find Your Favorite Songs in MP3 Format – Quick Download Tips!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-enjoy-audiobook-content-on-amazons-kindle-a-five-step-guide/"><u>How to Enjoy Audiobook Content on Amazon's Kindle: A Five-Step Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-make-your-translated-e-books-appear-on-amazons-kindle-store/"><u>How to Make Your Translated E-Books Appear on Amazon's Kindle Store</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-transform-your-kindle-azw-files-into-versatile-epub-format-an-essential-guide/"><u>How to Transform Your Kindle AZW Files Into Versatile EPUB Format: An Essential Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/immediate-guide-how-to-remove-drm-from-e-books-today/"><u>Immediate Guide: How to Remove DRM From E-Books Today!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-x50iplus-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor X50i+ to Protect Your Individual Information</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-11-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 11 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-overcoming-fixed-color-voids-in-recording-software/"><u>In 2024, Overcoming Fixed Color Voids in Recording Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unrivaled-streaming-experience-ranking-the-leaders/"><u>In 2024, Unrivaled Streaming Experience  Ranking the Leaders</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-music-at-parties-a-comprehensive-review-of-the-ion-audio-tailgater-plus/"><u>Maximizing Music at Parties: A Comprehensive Review of the ION Audio Tailgater Plus</u></a></li>
+<li><a href="https://solve-help.techidaily.com/migrating-your-ebook-collection-how-to-move-books-from-amazon-kindle-to-kobos-clara-hd/"><u>Migrating Your eBook Collection: How to Move Books From Amazon Kindle to Kobo's Clara HD</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spark-ar-visual-upgrades-the-role-of-downloadable-luts-in-development/"><u>Spark AR Visual Upgrades  The Role of Downloadable LUTs in Development</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-how-to-regain-access-to-your-suspended-driving-privileges/"><u>Step-by-Step Guide: How to Regain Access to Your Suspended Driving Privileges</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-moving-amazon-kindle-library-to-your-nook-tablet-or-ereader/"><u>Step-by-Step Guide: Moving Amazon Kindle Library to Your Nook Tablet or EReader</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-9-androidios-video-chat-platforms-ranked/"><u>Top 9 Android/iOS Video Chat Platforms Ranked</u></a></li>
+<li><a href="https://solve-help.techidaily.com/unlocking-kindle-potential-advanced-techniques-for-ebook-navigation-and-management/"><u>Unlocking Kindle Potential: Advanced Techniques for eBook Navigation & Management</u></a></li>
+<li><a href="https://solve-help.techidaily.com/unlocking-your-kindle-books-how-to-bypass-kfx-drm-and-convert-them-into-various-ebook-formats-mobi-epub-pdf-azw3/"><u>Unlocking Your Kindle Books: How to Bypass KFX DRM & Convert Them Into Various eBook Formats (MOBI, EPUB, PDF, AZW3)</u></a></li>
+<li><a href="https://solve-help.techidaily.com/unverschlusselte-inhalte-erstellen-anleitung-zum-entfernen-von-ibooks-drm-mit-kindle/"><u>Unverschlüsselte Inhalte Erstellen - Anleitung Zum Entfernen Von iBooks DRM Mit Kindle</u></a></li>
+<li><a href="https://solve-help.techidaily.com/user-agreement-discussions-understanding-terms-and-conditions/"><u>User Agreement Discussions: Understanding Terms and Conditions</u></a></li>
+</ul></div>
