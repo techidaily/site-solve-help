@@ -1,12 +1,18 @@
 ---
 title: Convert Your Transferred Book Collection Into Digital Format for Kindle Devices & App
-date: 2024-08-25T20:26:44.338Z
-updated: 2024-08-26T20:26:44.338Z
+date: 2024-09-05T11:08:43.516Z
+updated: 2024-09-06T11:08:43.516Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Convert Your Transferred Book Collection Into Digital Format for Kindle Devices & App
 
 ## Transfer Books to Kindle eReader, Kindle Fire and Kindle App 
@@ -21,6 +27,18 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 8/19/2022 3:09:4
 
 ![Kindle Paperwhite](http://www.epubor.com/images/uppic/kt_logo.png)People can read Amazon Kindle books on Kindle eReaders, Kindle Fire tablets as well as other smart devices with Kindle apps installed. Generally, once a device is registered to an Amazon account, all Kindle books under that account will be synced automatically with Internet connected.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 However, if we want to read non-Amazon books on Kindle or purchased Kindle books do not shown on the device due to a connection problem, we will have to transfer books from computer to Kindle manually. This guide will tell you how to transfer books to Kindle eReader, Kindle Fire (HD), Kindle for Android/iPad app from PC or Mac.
 
 ### Step 1\. Make Sure Your Personal Books Are MOBI Format (DRM-free)
@@ -78,12 +96,21 @@ Here I take Kindle Paperwhite as the example.
 ![copy books to Kindle Paperwhite](http://www.epubor.com/images/uppic/kt_paperwhite_copy.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3** Eject Kindle from computer. The sideloaded books will display under "Device" shelf.
 
 ![Transfer books to Kindle Paperwhite](http://www.epubor.com/images/uppic/kt_paperwhite_transfer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### **2\. Transfer MOBI/PDF Books to Kindle Fire Tablets**
 
 Here I take the Kindle Fire for example.
@@ -100,9 +127,6 @@ Here I take the Kindle Fire for example.
 
 ![Transfer books to Kindle Fire (HD)](http://www.epubor.com/images/uppic/kt_kf_transfer.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Send-to-Kindle E-mail Address of Kindle Fire:**
 
 Note that Kindle Fire (HD) does not come with a USB cable. If you don't have a USB cable, [transfer MOBI or PDF books to it wirelessly](https://tools.techidaily.com/epubor/products/).
@@ -115,19 +139,15 @@ Note that Kindle Fire (HD) does not come with a USB cable. If you don't have a U
 
 ![copy books to Kindle Android](http://www.epubor.com/images/uppic/kt_android_copy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 **3** Tap the menu icon in the top right corner of Kindle app, then select "On Device" to check the transferred books.
 
 ![Transfer books to Kindle Android app](http://www.epubor.com/images/uppic/kt_android_transfer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #### **4\. Transfer MOBI/PDF Books to Kindle App for iOS**
 
@@ -139,6 +159,12 @@ Tap the gear icon in the bottom right corner and select "Send-to-Kindle Email Ad
 
 ![Transfer books to Kindle iPad - send to Kindle email address](http://www.epubor.com/images/uppic/kt_ipad_email.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 5\. Transfer **MOBI/PDF** books to Kindle wirelessly (without a USB cable)
 
 As long as we know the email addresses of the Kindle devices or apps, we will be able to send DRM-free MOBI and PDF books to Kindle, Kindle Paperwhite, Kindle Fire (HD), Kindle for Android / iPad app wirelessly.
@@ -152,14 +178,26 @@ Visit Manage Your Kindle to sign in, go to "Your Kindle Account" from the left s
 ![send to Kindle - add to list](http://www.epubor.com/images/uppic/kt_email_list.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2** Compose an empty email (empty subject and empty body), attach your MOBI or PDF docs and input the Send-to-Kindle E-mail address to send.
 
 ![send to Kindle - compose](http://www.epubor.com/images/uppic/kt_email_send_201359399.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tap sync icon on the Kindle device or Kindle app. In minutes, you will find the sent MOBI and PDF docs under "All Items" and "Docs" category (Cloud). (This screenshot was taken on Nexus 7.)
 
