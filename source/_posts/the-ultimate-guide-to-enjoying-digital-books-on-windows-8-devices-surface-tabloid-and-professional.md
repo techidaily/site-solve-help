@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Enjoying Digital Books on Windows 8 Devices: Surface Tabloid and Professional"
-date: 2024-08-25T20:27:43.000Z
-updated: 2024-08-26T20:27:43.000Z
+date: 2024-09-10T09:42:46.942Z
+updated: 2024-09-11T09:42:46.942Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d26757691ab451f3dce8ae4b3a818b.jpg
@@ -19,15 +19,57 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/21/2018 4:11:
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Reading eBooks on Microsoft Surface RT/Pro (Windows 8) tablets is an important experience for many people, together with office use and diversified forms of entertainments. However, eBooks from different stores are mostly DRM protected and come in different formats, thus we cannot read all eBooks on Surface RT / Pro in a consistent way. This guide will explain how to read eBooks on Surface tablets in different cases.
 
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets](https://www.epubor.com/images/uppic/Microsoft-Surface-pic2.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 As we know, Microsoft Surface Pro can run all Windows applications, therefore we can easily read eBooks on Surface Pro (Win 8) with a series of applications like Calibre (64-bit) and Kindle for Win 8\. However, **there is no Adobe Digital Editions for Windows 8 at the moment ([According to an Adobe Stuff, #3 Jeff A Wright](http://forums.adobe.com/message/4994461)) and current ADE 2.0 requires Microsoft .Net 3.5**. Fortunately, this problem can be resolved by [installing a lowever ADE 1.7 on Surface Pro tablets (click to download)](http://kb2.adobe.com/cps/403/kb403051/attachments/setup.exe). But Surface RT customers are not that lucky due to RT's ARM processor, which only supports ARM-based metro apps instead of traditional Windows ones. As a result, we will mainly discuss how to read eBooks, including DRM protected EPUB and PDF titles on Surface RT tablets.
 
 [1\. How to read EPUB and PDF books on Surface RT / Pro (Windows 8)](https://tools.techidaily.com/epubor/products/)
 
 [2\. How to read Amazon Kindle books on Microsoft Surface RT / Pro (Windows 8)](https://tools.techidaily.com/epubor/products/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 1\. How to read EPUB and PDF books on Surface RT / Pro (Windows 8)
 
@@ -77,9 +119,37 @@ If you want to read eBooks with Metro Reader app (supports EPUB and TXT only), y
 
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets - Epubor Ultimate - get DRM free EPUB / PDF books](https://www.epubor.com/images/uppic/get-output-books.png)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 #### Method 3: Use Nook / Kobo for Windows 8 / RT reading apps to read eBooks on Surface RT / Pro tablets
 
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets - Nook win 8 app](https://www.epubor.com/images/uppic/read-eBooks-on-Microsoft-Surface-Nook-for-win8.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets - Kobo win 8 app](https://www.epubor.com/images/uppic/read-eBooks-on-Microsoft-Surface-Kobo-for-win8.png)
 
@@ -91,18 +161,32 @@ However, there is no such a compatible version for Sony reading app. We can't ei
 
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets - Adobe Reader for win8 app](https://www.epubor.com/images/uppic/read-eBooks-on-Microsoft-Surface-Adobe-reader.png)
 
-Frankly, I do not that like reading eBooks in PDF format, which is not as flexible as EPUB or Kindle books. Luckily, Adobe Reader gives us another free way, along with Nook / Kobo reading apps, to read eBooks on Surface tablets with password-protected PDFs supported. It enables readers to quickly open PDF documents, search text, select reading modes, share & email PDFs, draw markups, zoom text & images, use bookmarks & links and the like.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+Frankly, I do not that like reading eBooks in PDF format, which is not as flexible as EPUB or Kindle books. Luckily, Adobe Reader gives us another free way, along with Nook / Kobo reading apps, to read eBooks on Surface tablets with password-protected PDFs supported. It enables readers to quickly open PDF documents, search text, select reading modes, share & email PDFs, draw markups, zoom text & images, use bookmarks & links and the like.
+
 ### 2\. How to read Amazon Kindle books on Microsoft Surface RT / Pro (Windows 8)
 
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets - Kindle for Win 8](https://www.epubor.com/images/uppic/read-eBooks-on-Microsoft-Surface-kindle-for-win8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Reading Kindle books on Surface tablets is much easier.
 
 **1** Go to Windows app store and [download & install Kindle for Win 8 app](http://apps.microsoft.com/windows/en-us/app/kindle/1d7e4396-0143-4aed-8892-84eb75e799f3) on Surface RT / Pro.
@@ -117,9 +201,20 @@ Do hope this post will deliver you readers a good understanding of how to read e
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!

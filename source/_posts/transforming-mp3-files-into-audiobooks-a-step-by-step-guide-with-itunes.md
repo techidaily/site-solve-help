@@ -1,13 +1,27 @@
 ---
 title: "Transforming MP3 Files Into Audiobooks: A Step-by-Step Guide with iTunes"
-date: 2024-08-25T20:27:46.256Z
-updated: 2024-08-26T20:27:46.256Z
+date: 2024-09-10T09:42:47.001Z
+updated: 2024-09-11T09:42:47.001Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/fd60f16bf20dda981eb260766dc085349ba6360b3659bdf5766d705fbc85be65.jpg
 ---
 
 ## Transforming MP3 Files Into Audiobooks: A Step-by-Step Guide with iTunes
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## How to Convert MP3 to Audiobook in iTunes
 
@@ -50,11 +64,22 @@ Change Media Kind from Music to Audiobook. Click "OK". The audio file will disap
 
 ![Change Media Kind to Audiobook](http://www.epubor.com/images/uppic/Change-Media-Kind-to-Audiobook.png) 
 
-This method doesn't change the MP3 audio file itself. That is to say, if you delete the audiobook files from the iTunes library after above steps, you must re-follow this method again. Otherwise, the audio files cannot be detected as audiobooks. And for other audiobook players, the above steps are invalid. So, Method 2 is necessary.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+This method doesn't change the MP3 audio file itself. That is to say, if you delete the audiobook files from the iTunes library after above steps, you must re-follow this method again. Otherwise, the audio files cannot be detected as audiobooks. And for other audiobook players, the above steps are invalid. So, Method 2 is necessary.
+
 ### Method 2\. Convert MP3 to Audiobook Files with iTunes
 
 In this method, you can create audiobook from MP3 files. Do you know that iTunes also can be a great mp3 to audiobook converter. Even though the created audiobook files are deleted from iTunes library, you can import them from local into iTunes or other players with audiobook features. And there is no need to operate on the original MP3 file again as long as you have stored the created M4B audiobook files.
@@ -73,28 +98,52 @@ Or click "File" option on the navigation bar. Choose "Add File to Library" or "A
 
 ![Import MP3 Audio Files into iTunes](http://www.epubor.com/images/uppic/Import-MP3-Audio-Files-into-iTunes.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #### 3 Choose AAC Encoding Format
 
 Click "Edit > Preferences" from the navigation bar. Then click "Import Settings" option from the pop-up "General Preferences" window. Choose "AAC Encoder" from the drop-down box next to "Import Using". And click "OK".
 
 ![Choose AAC Encoding Format iTunes](http://www.epubor.com/images/uppic/Choose-AAC-Encoding-Format-iTunes.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #### 4  Convert Audio Files to AAC Version
 
 Select the imported MP3 files. Click "File > Convert > Create AAC Version" from the navigation bar. Then iTunes will convert the imported MP3 files to AAC version files.
 
 ![Create AAC Version](http://www.epubor.com/images/uppic/Create-AAC-Version.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 After the top conversion progress bar is completed, the generated audiobook file will be displayed below the original files with the same name. The suffix of the generated file is .m4a. 
 
 #### 5 Rename M4A to M4B
@@ -103,9 +152,20 @@ Right-click the generated files. Choose "Show in Windows Explorer" option to fin
 
 ![Show in Windows Explorer](http://www.epubor.com/images/uppic/Show-in-Windows-Explorer.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #### 6  Add M4B Audiobook into iTunes
 
 Drag and drop the M4B file into iTunes. Then the M4B file will automatically display in "Books > Audiobooks" section.
@@ -130,9 +190,20 @@ You may also like
 
 ![author](http://www.epubor.com/images/uppic/Grace.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Grace Sue](https://plus.google.com/107909268153223267573) A reading enthusiast. Always pay close attention to the world of Ebook. Devote myself to share everything about e-book and favorably receive any suggestions.
 
 SHARING IS GREAT!
