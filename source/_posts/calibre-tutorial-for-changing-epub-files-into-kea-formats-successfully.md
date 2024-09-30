@@ -1,25 +1,11 @@
 ---
 title: Calibre Tutorial for Changing EPUB Files Into KEA Formats Successfully
-date: 2024-09-10T09:42:46.484Z
-updated: 2024-09-11T09:42:46.484Z
+date: 2024-09-29T18:13:14.942Z
+updated: 2024-09-30T17:59:30.943Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e5e03af8173f938324bb194b.png
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Calibre Tutorial for Changing EPUB Files Into KEA Formats Successfully
 
@@ -29,41 +15,11 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 5/7/2022 4:17:16
 
 4.9 [(17 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  A kepub is just an epub with a lot of extra code, "kobo spans", that the Kobo uses. It's extension is ".kepub.epub".
 
 Why do you need to convert epub to kepub? First, KEPUB books support Kobo’s fast flip function. Second, KEPUB books support Kobo’s expanded reading statistics pop-up. Third, KEPUB provides access to Kobo’s built-in image viewer, which lets you zoom the images embedded within the book. If you need to make full use of these new features provided by KEPUB, you can try the following methods to convert epub to kepub. 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### How can we convert EPUB to Kepub
 
@@ -87,27 +43,34 @@ Click "Preference" on the menu bar, a window below will pop up, then tap "Plugin
 
 ![Kobo touchextend plugin](http://www.epubor.com/images/uppic/get-kobotouchextend-plugin.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, you will see a following dialogue, simply click "Get new plugins" button on the bottom left corner to find the KoboTouchExtended plugin.
 
 ![get new plugin](http://www.epubor.com/images/uppic/get-new-plugin.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As there are so many plugins listed, we can enter "kobo" in the search box behind "Filter by name", then we will find the KoboTouchExtended plugin easily. Simply select this plugin, hit "Install" button to install it. You may see an alert about the security risk, ignore it and click "Yes".
 
 ![search kobo touch extended plugin](http://www.epubor.com/images/uppic/search-kobotouchextended-plugin.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Step 2Convert epub to Kepub Calibre
 
@@ -117,19 +80,12 @@ Step 2Convert epub to Kepub Calibre
 
 ![send epub to kobo](http://www.epubor.com/images/uppic/send-epub-to-kobo.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 When the transfer has been finished, you can see the job status turns to "zero", open your KoboeReader drive, in the root folder, you will find there are several new created folders which are named as author's name. Open it, you can see your transferred EPUB files have become .kepub.epub format.
 
@@ -143,20 +99,6 @@ Download Epubor Ultimate for Free Now
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -164,8 +106,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 17 Comments
 
@@ -372,8 +312,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -381,4 +319,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-student-focused-historical-yt-series/"><u>[New] 2024 Approved Best Student-Focused Historical YT Series</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/above-and-beyond-the-ultimate-guide-to-mavic-pro/"><u>Above and Beyond - The Ultimate Guide to Mavic Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/addressing-and-fixing-the-microsoft-compatible-battery-drivers-under-acpi-guidelines/"><u>Addressing and Fixing the Microsoft Compatible Battery Drivers Under ACPI Guidelines</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1724766666471-digiarty18/"><u>DigiArtyの18年記念プロジェクト - パーフェクトなアート体験をご紹介</u></a></li>
+<li><a href="https://solve-help.techidaily.com/discover-amazons-must-read-list-the-ultimate-selection-of-the-100-most-popular-kindle-writers/"><u>Discover Amazon's Must-Read List: The Ultimate Selection of the 100 Most Popular Kindle Writers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/insight-into-your-contents-success-via-youtube-rankers-for-2024/"><u>Gain Insight Into Your Content's Success via YouTube Rankers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-integrating-nvidias-real-time-ai-with-chatbot-on-desktop/"><u>Guide: Integrating NVIDIA's Real-Time AI with Chatbot on Desktop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/highlights-from-chinas-winter-olympiad-2022/"><u>Highlights From China's Winter Olympiad 2022</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-transform-your-kindle-azw-files-into-versatile-epub-format-an-essential-guide/"><u>How to Transform Your Kindle AZW Files Into Versatile EPUB Format: An Essential Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/immediate-guide-how-to-remove-drm-from-e-books-today/"><u>Immediate Guide: How to Remove DRM From E-Books Today!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-infinix-hot-30i-frp-bypass-by-drfone-android/"><u>In 2024, About Infinix Hot 30i FRP Bypass</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/migrating-your-ebook-collection-how-to-move-books-from-amazon-kindle-to-kobos-clara-hd/"><u>Migrating Your eBook Collection: How to Move Books From Amazon Kindle to Kobo's Clara HD</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-how-to-regain-access-to-your-suspended-driving-privileges/"><u>Step-by-Step Guide: How to Regain Access to Your Suspended Driving Privileges</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-moving-amazon-kindle-library-to-your-nook-tablet-or-ereader/"><u>Step-by-Step Guide: Moving Amazon Kindle Library to Your Nook Tablet or EReader</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nubia-red-magic-9-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nubia Red Magic 9 Pro FRP</u></a></li>
+<li><a href="https://solve-help.techidaily.com/unlocking-your-kindle-books-how-to-bypass-kfx-drm-and-convert-them-into-various-ebook-formats-mobi-epub-pdf-azw3/"><u>Unlocking Your Kindle Books: How to Bypass KFX DRM & Convert Them Into Various eBook Formats (MOBI, EPUB, PDF, AZW3)</u></a></li>
+</ul></div>
 

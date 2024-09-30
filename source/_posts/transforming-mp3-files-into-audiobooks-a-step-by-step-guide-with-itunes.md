@@ -1,7 +1,7 @@
 ---
 title: "Transforming MP3 Files Into Audiobooks: A Step-by-Step Guide with iTunes"
-date: 2024-09-10T09:42:47.001Z
-updated: 2024-09-11T09:42:47.001Z
+date: 2024-09-29T18:54:34.365Z
+updated: 2024-09-30T18:09:36.123Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/fd60f16bf20dda981eb260766dc085349ba6360b3659bdf5766d705fbc85be65.jpg
@@ -9,27 +9,11 @@ thumbnail: https://thmb.techidaily.com/fd60f16bf20dda981eb260766dc085349ba6360b3
 
 ## Transforming MP3 Files Into Audiobooks: A Step-by-Step Guide with iTunes
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Convert MP3 to Audiobook in iTunes
 
 Posted by [Grace Sue](https://plus.google.com/107909268153223267573) on 4/20/2022 3:44:19 PM.
 
 4.9 [(21 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -58,27 +42,27 @@ Right click the audio file. Choose "Get Info" option. Click "Options" from the p
 
 ![Edit Items](http://www.epubor.com/images/uppic/Edit-Items.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3 Change Media Kind to Audiobook
 
 Change Media Kind from Music to Audiobook. Click "OK". The audio file will disappear in the current Music section and displayed in "Books > Audiobooks" catalog.
 
 ![Change Media Kind to Audiobook](http://www.epubor.com/images/uppic/Change-Media-Kind-to-Audiobook.png) 
 
-
-
-
+This method doesn't change the MP3 audio file itself. That is to say, if you delete the audiobook files from the iTunes library after above steps, you must re-follow this method again. Otherwise, the audio files cannot be detected as audiobooks. And for other audiobook players, the above steps are invalid. So, Method 2 is necessary.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-This method doesn't change the MP3 audio file itself. That is to say, if you delete the audiobook files from the iTunes library after above steps, you must re-follow this method again. Otherwise, the audio files cannot be detected as audiobooks. And for other audiobook players, the above steps are invalid. So, Method 2 is necessary.
 
 ### Method 2\. Convert MP3 to Audiobook Files with iTunes
 
@@ -98,51 +82,24 @@ Or click "File" option on the navigation bar. Choose "Add File to Library" or "A
 
 ![Import MP3 Audio Files into iTunes](http://www.epubor.com/images/uppic/Import-MP3-Audio-Files-into-iTunes.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 #### 3 Choose AAC Encoding Format
 
 Click "Edit > Preferences" from the navigation bar. Then click "Import Settings" option from the pop-up "General Preferences" window. Choose "AAC Encoder" from the drop-down box next to "Import Using". And click "OK".
 
 ![Choose AAC Encoding Format iTunes](http://www.epubor.com/images/uppic/Choose-AAC-Encoding-Format-iTunes.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 #### 4  Convert Audio Files to AAC Version
 
 Select the imported MP3 files. Click "File > Convert > Create AAC Version" from the navigation bar. Then iTunes will convert the imported MP3 files to AAC version files.
 
 ![Create AAC Version](http://www.epubor.com/images/uppic/Create-AAC-Version.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After the top conversion progress bar is completed, the generated audiobook file will be displayed below the original files with the same name. The suffix of the generated file is .m4a. 
 
@@ -152,19 +109,12 @@ Right-click the generated files. Choose "Show in Windows Explorer" option to fin
 
 ![Show in Windows Explorer](http://www.epubor.com/images/uppic/Show-in-Windows-Explorer.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 #### 6  Add M4B Audiobook into iTunes
 
@@ -190,20 +140,6 @@ You may also like
 
 ![author](http://www.epubor.com/images/uppic/Grace.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 [Grace Sue](https://plus.google.com/107909268153223267573) A reading enthusiast. Always pay close attention to the world of Ebook. Devote myself to share everything about e-book and favorably receive any suggestions.
 
 SHARING IS GREAT!
@@ -211,8 +147,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 21 Comments
 
@@ -463,8 +397,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -472,4 +404,19 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-deciphering-user-insights-in-youtube-comments/"><u>[Updated] 2024 Approved Deciphering User Insights in YouTube Comments</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tailoring-your-content-for-split-screen-audiences-via-facebook-lives/"><u>[Updated] In 2024, Tailoring Your Content for Split Screen Audiences via Facebook Lives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-the-art-creating-high-quality-gopro-vlogs/"><u>2024 Approved Mastering The Art Creating High-Quality Gopro Vlogs</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-xcover-7-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy XCover 7 by Name | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/dvdvhs8/"><u>失敗ゼロ！ DVDにパスするためのVHSと8ミリビデオテープ対応方法集</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-musical-instagram-narratives-without-for-2024/"><u>Crafting Musical Instagram Narratives (Without) for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/dvd-player-funktion-auf-playstation-5-verstandlich-erklart-und-wie-man-sie-nutzt/"><u>DVD Player Funktion Auf PlayStation 5 – Verständlich Erklärt Und Wie Man Sie Nutzt</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-for-epson-wf-263-printer-drivers-download-for-windows-users-windows-78110/"><u>Easy Installation Guide for Epson WF 263# Printer Drivers – Download for Windows Users (Windows 7/8.1/10)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978997864-hassle-free-installation-obtain-your-hp-stream-driver-packages-now/"><u>Hassle-Free Installation: Obtain Your HP Stream Driver Packages Now!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-11-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 11 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/richtige-schritte-zum-kopieren-von-dvd-dateien-auf-computer-unter-windows-10-und-macos-erfolgreich/"><u>Richtige Schritte Zum Kopieren Von DVD-Dateien Auf Computer Unter Windows 10 Und macOS Erfolgreich</u></a></li>
+<li><a href="https://solve-help.techidaily.com/wie-man-fehlfarben-bei-dvd-kopien-auf-einem-pc-mit-windows-nicht-kurzer-als-elf-systemen-repariert-mit-handbrake/"><u>Wie Man Fehlfarben Bei DVD-Kopien Auf Einem PC Mit Windows Nicht Kürzer Als Elf Systemen Repariert (Mit Handbrake)</u></a></li>
+</ul></div>
 

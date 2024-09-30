@@ -1,7 +1,7 @@
 ---
 title: OnePlus 12 Comprehensive Analysis - A Cost-Effective Substitute for High-End iPhones & Samsung Galaxies
-date: 2024-09-10T09:42:44.242Z
-updated: 2024-09-11T09:42:44.242Z
+date: 2024-09-25T16:10:37.850Z
+updated: 2024-09-30T16:55:39.669Z
 tags:
   - product-reviews
 categories:
@@ -10,20 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## OnePlus 12 Comprehensive Analysis - A Cost-Effective Substitute for High-End iPhones & Samsung Galaxies
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -35,35 +21,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![OnePlus 12 Silky Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/oneplus-12-silky-black.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  OnePlus 12
 
@@ -143,25 +101,12 @@ Expand
 
 [$700 at Amazon](https://www.amazon.com/dp/B0CQ5MYYZL?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001842&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Foneplus-12-review%2F&asc%5Fcampaign=Affiliate) [$799 at OnePlus](https://onepluscom.pxf.io/c/5597632/916678/12532?subId1=UUhtgUeUpU2001842&subId2=ehtg&u=https%3A%2F%2Fwww.oneplus.com%2Fus%2Foneplus-12) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  OnePlus 12 Overview: Mostly Premium Specs
 
@@ -183,6 +128,13 @@ Sergio Rodriguez / How-To Geek
 
 ![OnePlus Camera on the back with 4 lenses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/oneplus-camera.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  To state the obvious, the OnePlus 12 has a similar design to other recent OnePlus devices. I prefer phones to have some noticeable year-over-year appearance changes. So, even though there’s nothing wrong with the look of the 12, I was disappointed by its stale familiarity.
@@ -191,19 +143,12 @@ Sergio Rodriguez / How-To Geek
 
  I wasn’t shocked or blown away by any aspect of the hardware (or phone in general), but everything felt polished like a high-end device. For example, if I were buying this phone, I wouldn’t feel like I was missing out on much better specs going with this handset over any other one at the moment. On the software side, the phone runs OxygenOS 14\. Its system tweaks have been toned down over the years, and it generally feels pretty stock. Most people shouldn't run into any issues with it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Is the OnePlus 12 Camera as Good as It Seems?
 
@@ -213,19 +158,12 @@ Close
 
 ![OnePlus12-1x](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/oneplus12-1x.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Photo of a sunset of over a town taken with the OnePlus12-2x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/oneplus12-2x.jpg) 
 
@@ -236,20 +174,6 @@ Tyler Hayes / How-To Geek
 ![OnePlus12-0.6x](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/oneplus12-0-6x.jpg) 
 
 ![OnePlus12-6x](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/oneplus12-6x.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Close 
 
@@ -265,43 +189,16 @@ Close
 
  None of the sample images in these galleries have been edited. They have been provided to give a glimpse at camera results for different scenes at different times of the day in their default settings.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Charging and Battery Life Are Great
 
 ![OnePlus folder on the OnePlus 12](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/oneplus-folder-on-the-oneplus-12.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Sergio Rodriguez / How-To Geek
 
@@ -319,19 +216,12 @@ Sergio Rodriguez / How-To Geek
 
  If you like the idea of the OnePlus 12 but it’s still out of your price range, the company also has the [OnePlus 12R](https://www.amazon.com/OnePlus-Dual-SIM-Unlocked-Smartphone-Charging/dp/B0CQ9SZ6CP?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001842&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Foneplus-12-review%2F&asc%5Fcampaign=Affiliate), which starts at $499\. For that price, the 12R has 8GB of RAM, 128GB of storage, and gets a 120Hz refresh rate display along with the Snapdragon 8 Gen 2 processor.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Should You Buy the OnePlus 12?
 
@@ -421,8 +311,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -430,4 +318,24 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unfollower-detection-on-instagram/"><u>[New] In 2024, Unfollower Detection on Instagram</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725288762817-mp4mp3-6/"><u>如何將MP4文件無損地轉化成MP3 - 6順利方式</u></a></li>
+<li><a href="https://solve-help.techidaily.com/cambiar-de-codificacion-video-gratuita-conversion-de-h265-hevc-a-h264-sin-perdida-de-calidad/"><u>Cambiar De Codificación Video Gratuita: Conversión De H.265 (HEVC) a H.264 Sin Pérdida De Calidad</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-customization-optimizing-your-sites-personalization/"><u>Cookiebot-Enabled Customization: Optimizing Your Site's Personalization</u></a></li>
+<li><a href="https://solve-help.techidaily.com/effortless-blu-ray-transfer-and-backup-to-hard-drive-enhance-your-movie-collections-accessibility/"><u>Effortless Blu-Ray Transfer & Backup to Hard Drive – Enhance Your Movie Collection's Accessibility</u></a></li>
+<li><a href="https://solve-help.techidaily.com/free-high-performance-cuda-enabled-video-processing-tools-for-2023/"><u>Free High-Performance CUDA-Enabled Video Processing Tools for 202#3</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-razer-mambas-drivers-instantly-a-smooth-walkthrough/"><u>How to Download Razer Mamba's Drivers Instantly: A Smooth Walkthrough</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-xiaomi-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Xiaomi</u></a></li>
+<li><a href="https://solve-help.techidaily.com/il-migliore-strumento-di-codificazione-mp4-del-2023-tecniche-e-metodi-per-la-compressione-video/"><u>Il Migliore Strumento Di Codificazione MP4 Del 2023: Tecniche E Metodi per La Compressione Video</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-beyond-popularity-youtube-earnings-for-1m-viewer-base/"><u>In 2024, Beyond Popularity – YouTube Earnings for 1M Viewer Base</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-startup-issues-with-the-alienware-command-center-effective-fixes/"><u>Overcoming Startup Issues with the Alienware Command Center: Effective Fixes</u></a></li>
+<li><a href="https://solve-help.techidaily.com/scarica-il-top-decoder-dvd-gratis-per-riprodurre-qualsiasi-dvd-senza-problemi/"><u>Scarica Il Top Decoder DVD Gratis per Riprodurre Qualsiasi DVD Senza Problemi</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-minecraft-performance-problems-ultimate-guide/"><u>Solving Minecraft Performance Problems: Ultimate Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/top-5-no-watermark-screen-recording-methods-in-windows-11-easy-guide/"><u>Top 5 No-Watermark Screen Recording Methods in Windows 11 - Easy Guide!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/dvdx/"><u>プラチナ版DVDリッパーウィンX公式マニュアル:詳細な操作指示</u></a></li>
+</ul></div>
 
