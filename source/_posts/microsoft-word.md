@@ -1,7 +1,7 @@
 ---
 title: Microsoft Wordにおける効果的な音声と動画の記録手順
-date: 2024-10-06T18:41:26.785Z
-updated: 2024-10-11T21:17:45.661Z
+date: 2024-10-14T19:16:16.025Z
+updated: 2024-10-17T16:05:05.960Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c27750a5c3c9cc5c0ae68538.jpg
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 * [Part 2\. How to Record BIGO Live Without Black Screen on Android](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [Part 3\. How to Record BIGO Live Without Black Screen on iOS Devices](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [FAQs about BIGO Live Screen Recording](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Record BIGO Live Without Black Screen on PC
 
@@ -41,10 +48,10 @@ _\* Before starting recording, please locate the live streaming content you want
 ![Open Screen Recorder](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-1.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2.** Now choose a recording mode from **Custom**, **Full-screen**, **Game recording**, or **Audio-only recording**. Then drag the four border lines to adjust the recording region if you choose the "**Custom**" mode. Click “**OK**” to confirm the recording area.
@@ -52,35 +59,28 @@ _\* Before starting recording, please locate the live streaming content you want
 ![Confirm Recording Area](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-2.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** Select a video recording format from the format drop-down list. Then, modify the recording quality and choose a recording frame rate. (You can turn on the GPU Acceleration to boost the recording performance if your computer supports [hardware acceleration](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/).) Remember to uncheck the "**Microphone**" box if you don't want to record the background noise. Then set an output path at the bottom of the interface.
 
 ![Customize the Recording Settings](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-3.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4.** All set. Tap on the red “**REC**” button, and it will start recording on BIGO live video after a five-second countdown. Once done, press “**Ctrl + F1**” on your keyboard to end the recording. Then, you can watch the recorded shows on your PC or transfer the recording to other devices for viewing.
 
 ![Start Recording on BIGO](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-4.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to trim or [merge the recorded video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), just close the **Screen Recorder** and enter the “**Converter**” module. Add the source files and start editing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### More Than Just Capture BIGO LIVE
 
@@ -102,10 +102,10 @@ When it comes to recording BIGO Live on Android devices, AZ Screen Recorder is a
 Simple, no watermark, and no time limit! It can be the best screen recorder for Andriod.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Capture BIGO Live Stream on Android?
@@ -146,24 +146,30 @@ That’s all about how to screen record BIGO Live without black screen. With the
 Thanks for your reading. Have a nice day!
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs about BIGO Screen Recording
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Why can't I screen record Bigo Live?
 
 Most of the time, this is because your device does not have enough capacity or you did not grant permission to the tool you used to record. Check the storage space on your device (phone or computer) to solve this problem. Check to see if you have allowed the screen recorder to record a video. If everything appears to be in order, but you still cannot begin recording, try restarting your device.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Is it illegal to screen record protected videos?
 
@@ -204,20 +210,24 @@ _\* Please DO NOT use it to rip any copy-protected DVDs for commercial purposes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-streamline-online-interactions-the-simple-science-of-clear-backgrounds-in-google-meet-for-2024/"><u>[New] Streamline Online Interactions The Simple Science of Clear Backgrounds in Google Meet for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-viewer-count-chronicles-mastering-the-math-of-monetizing-moments-in-youtube-space-for-2024/"><u>[New] The Viewer Count Chronicles Mastering the Math of Monetizing Moments in YouTube Space for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-fpv-fantasy-a-closer-look-at-the-hubsan-h501x4/"><u>[Updated] In 2024, FPV Fantasy A Closer Look at the Hubsan H501X4</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-navigating-the-world-of-fb-video-content-production/"><u>[Updated] Navigating the World of FB Video Content Production</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-techniques-for-saving-discord-chats-in-real-time/"><u>[Updated] The Ultimate Techniques for Saving Discord Chats in Real-Time</u></a></li>
-<li><a href="https://solve-help.techidaily.com/5yuv55s75luy44gn44ox44os44k844oz44og44o844k344on44oz44gr44ok44os44o844k344on44oz44ks57we44g6l6844ka44gf44kb44gu44k544og44od44ox44oq44kk44k544og44od44ox44ks432/"><u>動画付きプレゼンテーションにナレーションを組み込むためのステップバイステップガイド</u></a></li>
-<li><a href="https://solve-help.techidaily.com/best-methods-for-converting-avi-files-into-mp3-a-guide-to-quick-and-simple-audio-extraction/"><u>Best Methods for Converting AVI Files Into MP3: A Guide to Quick and Simple Audio Extraction</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs60-not-picking-up-sound-heres-what-you-can-do/"><u>Corsair HS60 Not Picking Up Sound? Here's What You Can Do!</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1726029967708-dvdwindows-10/"><u>DVD映像ファイル再生に必要なコーデックをWindows 10で手動インストールするためのガイド</u></a></li>
-<li><a href="https://solve-help.techidaily.com/dvdps5q/"><u>DVD再生ができないPS5？使用可能な見え方テクニッQ</u></a></li>
-<li><a href="https://solve-help.techidaily.com/fast-guide-converting-flv-to-flac-files-with-ease-on-windows-and-web/"><u>Fast Guide: Converting FLV to FLAC Files with Ease on Windows & Web</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-y100a-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo Y100A Location | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/masterful-digital-brushstrokes-essential-top-10-android-graphics-apps/"><u>Masterful Digital Brushstrokes Essential Top 10 Android Graphics Apps</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1726026741659-nhk/"><u>NHKアーカイブスからビデオファイルを安全に保存するためのガイド</u></a></li>
-<li><a href="https://solve-help.techidaily.com/virtual-camera-magic-with-manycam-the-ultimate-guide-for-online-broadcasters/"><u>Virtual Camera Magic with ManyCam – The Ultimate Guide for Online Broadcasters</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-guiding-users-on-completely-audible-fb-videos-for-2024/"><u>[New] Guiding Users on Completely Audible FB Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-instagram-antithesis-video-reversal-explained/"><u>[New] The Instagram Antithesis Video Reversal Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-direct-transfer-of-youtube-playlists-stepwise-processing/"><u>[Updated] 2024 Approved Direct Transfer of YouTube Playlists - Stepwise Processing</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1-5-methoden-wie-man-echtzeit-sms-auf-dem-iphone-speichert-und-sicher-ablage/"><u>1. [5 Methoden] Wie Man Echtzeit-SMS Auf Dem iPhone Speichert Und Sicher Ablage</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comprehensive-manual-on-restoring-lost-data-across-various-devices-and-scenarios/"><u>Comprehensive Manual on Restoring Lost Data Across Various Devices and Scenarios</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elevating-your-minecraft-game-perfectly-shaped-circles-and-spheres/"><u>Elevating Your Minecraft Game Perfectly Shaped Circles and Spheres</u></a></li>
+<li><a href="https://solve-help.techidaily.com/erstellen-sie-mit-zwei-einfachsten-schritten-ihr-eigenes-bootfahiges-windows-11-systemabbild/"><u>Erstellen Sie Mit Zwei Einfachsten Schritten Ihr Eigenes Bootfähiges Windows 11-Systemabbild</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-word-building-oxford-mondly-methodology/"><u>Essential Word Building: Oxford-Mondly Methodology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/god-of-thunder-overhaul-complete/"><u>God of Thunder Overhaul Complete</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-video-lag-in-vlc-media-player-on-windows/"><u>How to Fix Video Lag in VLC Media Player on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-moto-g23-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Moto G23 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/losung-fur-fehlende-winloadefi-datei-4-methoden-und-einen-wertvollen-tipp-nach-systemklon/"><u>Lösung Für Fehlende Winload.efi Datei: 4 Methoden Und Einen Wertvollen Tipp Nach Systemklon</u></a></li>
+<li><a href="https://solve-help.techidaily.com/overcoming-boot-errors-with-bitlocker-encryption-in-windows-amoled458a9cfee7b3ux10064099windows-10-user-microsoft-support-member/"><u>Overcoming Boot Errors with BitLocker Encryption in Windows Amoled_458a9cfee7b3:u:x:1006:4099:Windows 10 User | Microsoft Support Member</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/revolutionnez-votre-ordinateur-dell-5-strategies-essentielles-pour-une-mise-a-jour-reussie-vers-windows-1187/"><u>Révolutionnez Votre Ordinateur Dell : 5 Stratégies Essentielles Pour Une Mise À Jour Réussie Vers Windows 11/8/7</u></a></li>
+<li><a href="https://solve-help.techidaily.com/scopri-come-recuperare-dati-nascosti-da-un-disco-rigido-esterno-con-la-guida-di-guida/"><u>Scopri Come Recuperare Dati Nascosti Da Un Disco Rigido Esterno Con La Guida Di Guida</u></a></li>
+<li><a href="https://solve-help.techidaily.com/solution-troubleshooting-windows-backup-disconnection-errors/"><u>Solution: Troubleshooting Windows Backup Disconnection Errors</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1728470693375-windows-11/"><u>Windows 11でゴミ箱に置き去りとなったデータを再生するコツ</u></a></li>
 </ul></div>
 

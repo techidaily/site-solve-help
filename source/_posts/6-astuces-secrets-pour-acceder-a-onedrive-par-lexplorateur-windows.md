@@ -1,7 +1,7 @@
 ---
 title: 6 Astuces Secrets Pour Accéder À Onedrive Par L'Explorateur Windows
-date: 2024-10-09T18:07:30.636Z
-updated: 2024-10-11T21:48:12.548Z
+date: 2024-10-13T19:44:30.088Z
+updated: 2024-10-17T18:02:51.876Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0d4d3a83638bfcc50c7ba407.jpg
@@ -69,6 +69,13 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -106,10 +113,10 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -144,13 +151,6 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -176,19 +176,6 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -225,10 +212,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
@@ -252,10 +239,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -268,6 +255,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -279,10 +273,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -300,21 +294,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-easy-sound-transformation-ios-tools-to-convert-youtube-songs-to-mp3-files/"><u>[New] Easy Sound Transformation IOS Tools to Convert YouTube Songs to MP3 Files</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-effective-strategies-for-twitter-marketing/"><u>[New] In 2024, Effective Strategies for Twitter Marketing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-alight-motion-comprehensive-review-2023-for-2024/"><u>[Updated] Alight Motion Comprehensive Review 2023 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-virtual-adventure-awaits-with-these-top-12-pc-clickers/"><u>[Updated] In 2024, Virtual Adventure Awaits with These Top 12 PC Clickers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-securing-your-online-sessions-pcmobile-recording-for-2024/"><u>[Updated] Securing Your Online Sessions PC/Mobile Recording for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-uncomplicating-the-complication-of-the-invisible-green-on-macs/"><u>2024 Approved Uncomplicating The Complication of the Invisible Green on Macs</u></a></li>
-<li><a href="https://solve-help.techidaily.com/discover-the-best-no-cost-mac-programs-similar-to-any-dvds-magic-exploring-open-source-solutions-after-slysoft-closure/"><u>Discover the Best No-Cost Mac Programs Similar to Any DVD's Magic: Exploring Open Source Solutions After SlySoft Closure</u></a></li>
-<li><a href="https://solve-help.techidaily.com/disney-copy-protection-bypass-and-methods-on-macos-sierra-updated-for-2018/"><u>Disney Copy Protection Bypass & Methods on macOS Sierra (Updated for 2018)</u></a></li>
-<li><a href="https://solve-help.techidaily.com/effortless-exploration-with-the-ride1up-cafe-cruiser-the-ultimate-guide-to-choosing-a-comfortable-electric-bike-for-leisurely-journeys/"><u>Effortless Exploration with the Ride1Up Cafe Cruiser: The Ultimate Guide to Choosing a Comfortable Electric Bike for Leisurely Journeys</u></a></li>
-<li><a href="https://solve-help.techidaily.com/exploring-ankers-nebula-capsule-3-the-ultimate-dim-friendly-tiny-projector-experience/"><u>Exploring Anker's Nebula Capsule 3 - The Ultimate Dim-Friendly Tiny Projector Experience</u></a></li>
-<li><a href="https://solve-help.techidaily.com/exploring-the-intricacies-of-how-to-geeks-rigorous-product-testing-and-review-system/"><u>Exploring the Intricacies of How-To Geek's Rigorous Product Testing and Review System</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-faux-pas-navigating-identity-fraud/"><u>Facebook Faux Pas: Navigating Identity Fraud</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1724766337652-macx-video-converter-pro/"><u>MacX Video Converter Pro - 公式サイトで完全にセキュリティ保証のダウンロードページ</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/psvr-2-unveiled-insights-into-specifications-market-price-and-availability-schedule/"><u>PSVR 2 Unveiled: Insights Into Specifications, Market Price, and Availability Schedule</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-correcting-logon-failures-in-group-policy-clients-solved/"><u>Troubleshooting Steps for Correcting Logon Failures in Group Policy Clients [SOLVED]</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ultimate-guide-to-choosing-a-portable-dvd-player-for-traveling-families-our-top-10-selections/"><u>Ultimate Guide to Choosing a Portable DVD Player for Traveling Families: Our Top 10 Selections</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-in-class-writing-workshop/"><u>[New] Best-in-Class Writing Workshop</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweetvidaudiomaker-instant-sound-output/"><u>[New] In 2024, TweetVidAudioMaker Instant Sound Output</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-live-guide-audiences/"><u>[Updated] 2024 Approved FB Live Guide Audiences</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-event-ready-top-dj-templates-download-guide-for-2024/"><u>[Updated] Event-Ready Top DJ Templates Download Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-sony-bdp-s3700-review/"><u>2024 Approved Sony BDP- S3700 Review</u></a></li>
+<li><a href="https://solve-help.techidaily.com/boost-your-hp-omen-eb-pc-speed-with-a-quick-and-economical-ssd-upgrade-guide/"><u>Boost Your HP Omen Eb PC Speed with a Quick & Economical SSD Upgrade Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/come-effettuare-il-backup-di-unimmagine-del-sistema-con-dell-su-windows-11-guida-passo-passo/"><u>Come Effettuare Il Backup Di Un'Immagine Del Sistema Con Dell Su Windows 11 - Guida Passo-Passo</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/directrecorderw11-streamlined-windows-11-capture-software/"><u>DirectRecorderW11 Streamlined Windows 11 Capture Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-7-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 7 Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-idea-to-income-a-comprehensive-instagram-guide-for-2024/"><u>From Idea to Income A Comprehensive Instagram Guide for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/guia-paso-a-paso-para-sincronizar-carpetas-entre-computadores/"><u>Guía Paso a Paso Para Sincronizar Carpetas Entre Computadores</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/protecting-your-virtual-environment-with-robust-online-backup-strategies/"><u>Protecting Your Virtual Environment with Robust Online Backup Strategies</u></a></li>
+<li><a href="https://solve-help.techidaily.com/restoring-performance-wizardry-on-your-hp-stream-11-a-comprehensive-guide-to-mastering-recovery-procedures/"><u>Restoring Performance Wizardry on Your HP Stream 11 - A Comprehensive Guide to Mastering Recovery Procedures</u></a></li>
+<li><a href="https://solve-help.techidaily.com/the-best-5-troubleshooting-steps-for-restoring-airdrop-connectivity-on-iphone-se/"><u>The Best 5 Troubleshooting Steps for Restoring AirDrop Connectivity on iPhone SE</u></a></li>
+<li><a href="https://solve-help.techidaily.com/wie-man-iphone-apps-aus-einem-itunes-backup-erstellt/"><u>Wie Man iPhone Apps Aus Einem iTunes Backup Erstellt</u></a></li>
+<li><a href="https://solve-help.techidaily.com/winnaar-de-herstelprocedure-voor-het-snelle-verschilsonnetje-en-geabsente-takenveld-in-windows-11/"><u>Winnaar De Herstelprocedure Voor Het Snelle Verschilsonnetje en Geabsente Takenveld in Windows 11</u></a></li>
 </ul></div>
 
