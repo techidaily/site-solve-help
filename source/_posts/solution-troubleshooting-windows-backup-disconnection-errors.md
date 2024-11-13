@@ -1,7 +1,7 @@
 ---
 title: "Solution: Troubleshooting Windows Backup Disconnection Errors"
-date: 2024-10-30T04:22:49.185Z
-updated: 2024-11-03T23:32:36.777Z
+date: 2024-11-11T19:15:55.394Z
+updated: 2024-11-12T17:41:21.693Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4b8021497e0ee7ed3f0b2671.jpg
@@ -51,10 +51,10 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Norton Ghost
@@ -62,13 +62,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
@@ -89,6 +82,13 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. Finally, click **OK** to confirm.
 
 ### Restore Image with Norton Ghost
@@ -104,10 +104,10 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
@@ -121,16 +121,16 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
@@ -176,13 +176,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
@@ -198,6 +191,13 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
@@ -206,17 +206,17 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clone Hard Drive
@@ -237,6 +237,13 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -298,13 +305,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -320,18 +320,18 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimize-obs-encoding-quick-solutions/"><u>2024 Approved Optimize OBS Encoding Quick Solutions</u></a></li>
-<li><a href="https://solve-help.techidaily.com/best-4k-media-player-apps-top-10-free-options-for-windows-11-and-macos-users/"><u>Best 4K Media Player Apps: Top 10 FREE Options for Windows 11 & macOS Users</u></a></li>
-<li><a href="https://solve-help.techidaily.com/comment-puis-je-telecharger-sans-frais-des-videos-de-twitter-sur-ordinateur-macwindows-smartphone-ios-ou-appareil-android/"><u>Comment Puis-Je Télécharger Sans Frais Des Vidéos De Twitter Sur Ordinateur Mac/Windows, Smartphone iOS Ou Appareil Android?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212416646-google-chrome-stops-working-heres-the-solution/"><u>Google Chrome Stops Working? Here's the Solution!</u></a></li>
-<li><a href="https://solve-help.techidaily.com/guide-converting-dvds-into-mpeg2-format-while-preserving-original-subtitles-and-audio/"><u>Guide: Converting DVDs Into MPEG2 Format While Preserving Original Subtitles and Audio</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-100-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor 100 Pro Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-free-youtube-end-screen-templates-plushow-tos/"><u>In 2024, Free YouTube End Screen Templates [+How-Tos]</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-realme-gt-5-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Realme GT 5 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://solve-help.techidaily.com/macdvdmp3-dvd/"><u>Mac用最速・最高品質のDVDからMP3へのダビングガイド: DVDオーディオ抽出</u></a></li>
-<li><a href="https://solve-help.techidaily.com/top-international-film-picks-for-festive-season-viewing/"><u>Top International Film Picks for Festive Season Viewing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-choosing-hdmi-splitters-the-top-picks/"><u>Ultimate Guide to Choosing HDMI Splitters - The Top Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-tutorial-effortlessly-downscale-super-quality-4k-footage-to-standard-definition/"><u>Ultimate Tutorial: Effortlessly Downscale Super Quality 4K Footage to Standard Definition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-has-open-enrollment-for-chatgpt-ended-anticipated-reopening-schedule-inside/"><u>Why Has Open Enrollment for ChatGPT Ended? Anticipated Reopening Schedule Inside</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-freenoweb-recorder-app-evaluation-insights/"><u>[New] 2024 Approved FreenoWeb Recorder App Evaluation Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unmasking-imagerys-origins-a-complete-guide-to-reverse-picture-searching-in-instagram-for-2024/"><u>[New] Unmasking Imagery's Origins A Complete Guide to Reverse Picture Searching in Instagram for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-live-streaming-and-video-editing-with-vlc/"><u>[Updated] 2024 Approved Live Streaming & Video Editing with VLC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-definitive-guide-for-effective-and-smooth-youtube-video-uploads/"><u>[Updated] In 2024, The Definitive Guide for Effective and Smooth YouTube Video Uploads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-premier-biking-game-showcase-for-2024/"><u>[Updated] Premier Biking Game Showcase for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-rhythmreview-music-and-dialogue-analysis/"><u>2024 Approved RhythmReview Music and Dialogue Analysis</u></a></li>
+<li><a href="https://solve-help.techidaily.com/easy-steps-to-successfully-download-4k-content-from-popular-platforms-like-youtube-and-vimeo-updated-tutorial/"><u>Easy Steps to Successfully Download 4K Content From Popular Platforms Like YouTube and Vimeo - Updated Tutorial</u></a></li>
+<li><a href="https://solve-help.techidaily.com/effortless-solutions-a-step-by-step-tutorial-for-dvd-playback-on-computers/"><u>Effortless Solutions: A Step-by-Step Tutorial for DVD Playback on Computers</u></a></li>
+<li><a href="https://solve-help.techidaily.com/enhancing-visual-appeal-expert-techniques-for-fine-tuning-video-effects-like-a-pro/"><u>Enhancing Visual Appeal: Expert Techniques for Fine-Tuning Video Effects Like a Pro</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-divide-a-large-audio-track-into-multiple-cue-tracks-using-the-ultimate-splitting-tool/"><u>How to Divide a Large Audio Track Into Multiple CUE Tracks Using the Ultimate Splitting Tool</u></a></li>
+<li><a href="https://solve-help.techidaily.com/improving-sound-clarity-a-users-manual-on-modifying-wav-bitrates-for-superior-audio-files/"><u>Improving Sound Clarity: A User's Manual on Modifying WAV Bitrates for Superior Audio Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-journeying-beyond-boundaries-jaunt-vr-analysis/"><u>In 2024, Journeying Beyond Boundaries Jaunt VR Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/trasforma-video-mov-in-asf-senza-costi-con-il-servizio-online-di-moovavi/"><u>Trasforma Video MOV in ASF Senza Costi Con Il Servizio Online Di Moovavi</u></a></li>
 </ul></div>
 

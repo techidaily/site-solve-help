@@ -1,7 +1,7 @@
 ---
 title: 知性 WD USB存储设备自动定时备份解锁方法 | 保存内容
-date: 2024-10-31T16:33:15.786Z
-updated: 2024-11-04T03:35:51.062Z
+date: 2024-11-08T16:07:01.910Z
+updated: 2024-11-12T18:50:57.875Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db61566ed595168e5f4f1378d7.jpg
@@ -35,6 +35,13 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -42,6 +49,13 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -65,6 +79,13 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -85,34 +106,20 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -127,10 +134,23 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -148,13 +168,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -190,13 +203,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -212,18 +218,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/1726228020681-6/"><u>「ビデオの鮮明さを増やすための無料方法と推薦ソフトウェアセレクション6組み」</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/easily-obtain-unique-epilogue-audio-files-online/"><u>Easily Obtain Unique Epilogue Audio Files Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-camon-30-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Camon 30 Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/resolving-plays-audio-but-no-video-troubleshooting-avi-file-issues-in-windows-11/"><u>Resolving Plays Audio but No Video: Troubleshooting AVI File Issues in Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-iphone-charging-problems-effective-strategies-for-a-better-battery-life/"><u>Solving iPhone Charging Problems: Effective Strategies for a Better Battery Life</u></a></li>
-<li><a href="https://solve-help.techidaily.com/step-by-step-guide-to-transforming-wmv-files-into-mp4-format-on-windows-pcs/"><u>Step-by-Step Guide to Transforming WMV Files Into MP4 Format on Windows PCs</u></a></li>
-<li><a href="https://solve-help.techidaily.com/step-by-step-guide-mastering-the-art-of-efficient-divx-dvd-conversion/"><u>Step-by-Step Guide: Mastering the Art of Efficient DivX DVD Conversion</u></a></li>
-<li><a href="https://solve-help.techidaily.com/step-by-step-tutorial-on-modifying-and-converting-dv-audiovideo-footage/"><u>Step-by-Step Tutorial on Modifying and Converting DV Audio/Video Footage</u></a></li>
-<li><a href="https://solve-help.techidaily.com/step-by-step-tutorial-on-ripping-and-transforming-dvd-films-compatible-with-sony-playstation-microsoft-xbox-sony-psp-sony-ps-vita-and-microsoft-zune/"><u>Step-by-Step Tutorial on Ripping & Transforming DVD Films Compatible with Sony Playstation, Microsoft Xbox, Sony PSP, Sony PS Vita, and Microsoft Zune</u></a></li>
-<li><a href="https://solve-help.techidaily.com/superior-hd-video-transformation-suite-professional-grade-converter-tool/"><u>Superior HD Video Transformation Suite: Professional-Grade Converter Tool</u></a></li>
-<li><a href="https://techidaily.com/ultimate-how-to-for-enjoying-fallout-3-adventures-on-windows-10-systems/"><u>Ultimate How-To for Enjoying Fallout 3 Adventures on Windows 10 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-of-the-rest-cutting-edge-vr-games-for-google-cardboard/"><u>[New] Best of the Rest Cutting-Edge VR Games for Google Cardboard</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boost-your-brand-visibility-with-top-hashtag-strategies/"><u>[New] Boost Your Brand Visibility with Top Hashtag Strategies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-10-leading-pc-vr-headsets-for-2024/"><u>[New] The Ultimate Guide to 10 Leading PC VR Headsets for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/6zu25oqa6io95asn5y6f77ya5luo5pyq57up5yid5ael5yyw55qe56gs55uy5lit5yplusw5zue5lplush5ogv6kplusm6kej/"><u>零技能复原：从未经初始化的硬盘中取回信息详解</u></a></li>
+<li><a href="https://solve-help.techidaily.com/durability-9-2-18/"><u>Durability = 9 2 = 18</u></a></li>
+<li><a href="https://solve-help.techidaily.com/effizientes-cloning-von-windows-11-auf-eine-ssd-anleitung-und-tipps/"><u>Effizientes Cloning Von Windows 11 Auf Eine SSD - Anleitung Und Tipps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gekonvertige-gratis-mp3-naar-3gp3g2-met-online-tool-movavi/"><u>Gekonvertige Gratis MP3 Naar 3GP/3G2 Met Online Tool - Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a18-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Oppo A18 Without PUK Codes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-to-make-a-youtube-subscribe-link-easy/"><u>In 2024, How to Make a YouTube Subscribe Link - Easy</u></a></li>
+<li><a href="https://solve-help.techidaily.com/vergessene-partitionen-auferstehen-lassen-tipps-und-tricks-zur-datenwiederherstellung-von-einem-usb-flashspeichergerat/"><u>Vergessene Partitionen Auferstehen Lassen: Tipps Und Tricks Zur Datenwiederherstellung Von Einem USB-Flashspeichergerät</u></a></li>
+<li><a href="https://solve-help.techidaily.com/wie-man-das-windows-11-setup-programm-herunterladt-und-erfolgreich-verwendet/"><u>Wie Man Das Windows 11 Setup-Programm Herunterlädt Und Erfolgreich Verwendet</u></a></li>
 </ul></div>
 
