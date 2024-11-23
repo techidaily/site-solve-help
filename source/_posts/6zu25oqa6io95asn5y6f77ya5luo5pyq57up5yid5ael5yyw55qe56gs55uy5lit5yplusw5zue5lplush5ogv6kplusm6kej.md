@@ -1,7 +1,7 @@
 ---
 title: 零技能复原：从未经初始化的硬盘中取回信息详解
-date: 2024-11-08T18:54:35.346Z
-updated: 2024-11-13T02:29:15.010Z
+date: 2024-11-17T05:32:02.169Z
+updated: 2024-11-23T03:01:18.610Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -75,20 +79,10 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
@@ -111,7 +105,15 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -120,13 +122,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -149,13 +144,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -167,10 +155,7 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2\. Click **Add Disk** to choose the system disk to be backed up.
@@ -181,17 +166,14 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 👉 **Notes:**
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -207,10 +189,7 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Clone Hard Drive
@@ -231,6 +210,10 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -258,6 +241,10 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
@@ -282,13 +269,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -298,6 +278,10 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -314,19 +298,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-pathway-to-perfection-a-pro-guide-to-instagram-photos/"><u>[New] In 2024, The Pathway to Perfection A Pro Guide to Instagram Photos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitters-top-picks-most-fancied-and-watched-prime-originals-for-2024/"><u>[Updated] Twitter's Top Picks Most Fancied & Watched Prime Originals for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-x-spectrum-visual-recorder-pc/"><u>[Updated] X-Spectrum Visual Recorder, PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/connect-with-stars-write-inspiring-biographies-on-whatsapp/"><u>Connect with Stars – Write Inspiring Biographies on WhatsApp</u></a></li>
-<li><a href="https://solve-help.techidaily.com/free-guide-mastering-the-art-of-copying-encrypted-dvd-films-without-a-hitch/"><u>Free Guide: Mastering the Art of Copying Encrypted DVD Films Without a Hitch</u></a></li>
-<li><a href="https://solve-help.techidaily.com/how-to-fix-persistent-safari-glitches-and-unresponsive-stages-on-ios-devices/"><u>How to Fix Persistent Safari Glitches & Unresponsive Stages on iOS Devices</u></a></li>
-<li><a href="https://solve-help.techidaily.com/how-to-seamlessly-move-images-from-iphone-to-macbook-discover-the-easiest-techniques/"><u>How to Seamlessly Move Images From iPhone to MacBook – Discover the Easiest Techniques!</u></a></li>
-<li><a href="https://solve-help.techidaily.com/mastering-video-codecs-conversion-switching-between-h264-and-h265-with-ffmpeg-techniques/"><u>Mastering Video Codecs Conversion: Switching Between H264 and H265 with FFmpeg Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007993669-putting-myths-to-rest-official-release-timeline-for-assassins-creed-valhalla-revealed/"><u>Putting Myths to Rest: Official Release Timeline for Assassin's Creed Valhalla Revealed!</u></a></li>
-<li><a href="https://solve-help.techidaily.com/restore-sounds-on-mp4-videos-how-to-repair-audio-glitches-effectively/"><u>Restore Sounds on MP4 Videos - How to Repair Audio Glitches Effectively</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/restore-your-iphone-control-features-a-comprehensive-guide-to-8-possible-solutions/"><u>Restore Your iPhone Control Features: A Comprehensive Guide to 8 Possible Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-streaming-sky-sports-on-kodi-complete-tutorial-with-images/"><u>Step-by-Step Guide to Streaming Sky Sports on Kodi - Complete Tutorial with Images</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-common-dvd-player-sounds-how-to-correct-skipping-and-poor-quality-audio/"><u>Troubleshooting Common DVD Player Sounds: How to Correct Skipping & Poor Quality Audio</u></a></li>
-<li><a href="https://solve-help.techidaily.com/webmmp4/"><u>WebMとMP4の違い：品質・サイズ・互換性を深く解析！</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-photo-prospectus-top-10-professional-lens-choices/"><u>[New] 2024 Approved Photo Prospectus Top 10 Professional Lens Choices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cross-platform-connectivity-sharing-youtube-and-twitter-videos-on-snapchat-for-2024/"><u>[New] Cross Platform Connectivity Sharing YouTube & Twitter Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-leveraging-zooms-full-spectrum-of-live-video-capabilities/"><u>[Updated] In 2024, Leveraging Zoom's Full Spectrum of Live Video Capabilities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-journey-through-fantasy-on-android-the-15-best-games/"><u>[Updated] Journey Through Fantasy on Android The 15 Best Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-rapid-route-to-reclaimed-reddit-articles-for-2024/"><u>[Updated] Rapid Route to Reclaimed Reddit Articles for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-gastronomic-glamour-top-7-ingredients-for-stunning-cooking-videos/"><u>2024 Approved Gastronomic Glamour Top 7 Ingredients for Stunning Cooking Videos</u></a></li>
+<li><a href="https://solve-help.techidaily.com/discover-amazons-must-read-list-the-ultimate-selection-of-the-100-most-popular-kindle-writers/"><u>Discover Amazon's Must-Read List: The Ultimate Selection of the 100 Most Popular Kindle Writers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/expert-recommendations-leading-samsung-compatible-portable-applications-for-smooth-data-migration/"><u>Expert Recommendations: Leading Samsung-Compatible Portable Applications for Smooth Data Migration</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-enjoy-audiobook-content-on-amazons-kindle-a-five-step-guide/"><u>How to Enjoy Audiobook Content on Amazon's Kindle: A Five-Step Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-make-your-translated-e-books-appear-on-amazons-kindle-store/"><u>How to Make Your Translated E-Books Appear on Amazon's Kindle Store</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-transform-your-kindle-azw-files-into-versatile-epub-format-an-essential-guide/"><u>How to Transform Your Kindle AZW Files Into Versatile EPUB Format: An Essential Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/immediate-guide-how-to-remove-drm-from-e-books-today/"><u>Immediate Guide: How to Remove DRM From E-Books Today!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-yuva-2-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Yuva 2 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-playlist-retrieval-made-straightforward-your-compreenaside/"><u>In 2024, Playlist Retrieval Made Straightforward - Your Compreenaside</u></a></li>
+<li><a href="https://solve-help.techidaily.com/migrating-your-ebook-collection-how-to-move-books-from-amazon-kindle-to-kobos-clara-hd/"><u>Migrating Your eBook Collection: How to Move Books From Amazon Kindle to Kobo's Clara HD</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-how-to-regain-access-to-your-suspended-driving-privileges/"><u>Step-by-Step Guide: How to Regain Access to Your Suspended Driving Privileges</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-moving-amazon-kindle-library-to-your-nook-tablet-or-ereader/"><u>Step-by-Step Guide: Moving Amazon Kindle Library to Your Nook Tablet or EReader</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 13 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://solve-help.techidaily.com/unlocking-your-kindle-books-how-to-bypass-kfx-drm-and-convert-them-into-various-ebook-formats-mobi-epub-pdf-azw3/"><u>Unlocking Your Kindle Books: How to Bypass KFX DRM & Convert Them Into Various eBook Formats (MOBI, EPUB, PDF, AZW3)</u></a></li>
 </ul></div>
 

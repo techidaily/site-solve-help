@@ -1,7 +1,7 @@
 ---
 title: "Fix & Setup: Enabling Visibility of Google Drive Within Microsoft's File Explorer System"
-date: 2024-11-06T20:59:34.662Z
-updated: 2024-11-13T04:35:25.823Z
+date: 2024-11-15T20:01:16.122Z
+updated: 2024-11-23T08:04:02.595Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235bec60ba0d26a57d5b805db19.jpg
@@ -28,6 +28,10 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Sommario** 
 
 1. [Introduzione](https://tools.techidaily.com/ubackup/products/)
@@ -42,6 +46,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10](https://tools.techidaily.com/ubackup/products/)
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Introduzione
 
@@ -70,10 +78,7 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -111,6 +116,10 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -170,13 +179,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -198,10 +200,7 @@ Passo 4\. Avvia il Backup:
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
@@ -226,13 +225,6 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusione
 
 In conclusione, risolvere la sfida di non poter digitare nella barra di ricerca di Windows 10 richiede un approccio sistematico. Seguendo le soluzioni fornite e integrando misure di protezione dei dati con AOMEI Backupper, puoi affrontare potenziali problemi con fiducia. Mantieni ottimizzato il tuo sistema, sii proattivo nella risoluzione dei problemi ed emancipati per trarre il massimo dalla tua esperienza con Windows 10.
@@ -245,13 +237,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -262,6 +247,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -271,10 +260,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -294,21 +280,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>[New] 2024 Approved Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-android-in-virtual-reality-streamlining-the-viewing-experience/"><u>[New] Android in Virtual Reality Streamlining the Viewing Experience</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-leading-android-picture-perfection-apps/"><u>[New] In 2024, Leading Android Picture Perfection Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pricing-your-way-to-higher-youtube-traffic/"><u>2024 Approved Pricing Your Way to Higher YouTube Traffic</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-professional-techniques-for-getting-rid-of-backgrounds-in-figma/"><u>2024 Approved Professional Techniques for Getting Rid of Backgrounds in Figma</u></a></li>
-<li><a href="https://solve-help.techidaily.com/dvdwindows-11-dvdsiphoneipadandroid-mp4/"><u>简易DVD转换软件，适用于Windows 11 - 无限制地将DVDs转换为高效的iPhone/iPad/Android MP4格式文件</u></a></li>
-<li><a href="https://solve-help.techidaily.com/best-methods-for-reducing-the-size-of-your-mkv-files-without-cost/"><u>Best Methods for Reducing the Size of Your MKV Files Without Cost</u></a></li>
-<li><a href="https://solve-help.techidaily.com/bonne-souscription-telechargement-de-winx-hd-video-converter-pour-macos-avec-offre-speciale-de-reductions-vacances/"><u>Bonne Souscription! Téléchargement De WinX HD Video Converter Pour macOS Avec Offre Spéciale De Réductions Vacances</u></a></li>
-<li><a href="https://solve-help.techidaily.com/comprehensive-guide-winxvideo-artificial-intelligence-frequently-asked-questions-answered/"><u>Comprehensive Guide: WinXVideo Artificial Intelligence - Frequently Asked Questions Answered</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/crisis-management-saving-your-mac-from-a-kernel-freeze/"><u>Crisis Management: Saving Your Mac From a Kernel Freeze</u></a></li>
-<li><a href="https://solve-help.techidaily.com/efficiently-send-heavy-files-the-experts-list-of-10-tips-for-shrinking-videos-before-emailing/"><u>Efficiently Send Heavy Files: The Expert's List of 10 Tips for Shrinking Videos Before Emailing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-x50-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor X50</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 8 to Android | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/the-best-free-4k-video-player-apps-top-picks-for-pc-and-mac-enthusiasts-on-windows-1011/"><u>The Best Free 4K Video Player Apps: Top Picks for PC & Mac Enthusiasts on Windows 10/11</u></a></li>
-<li><a href="https://solve-help.techidaily.com/winx-hd-video-converter-professional-convertissez-modifiez-et-ameliorez-facilement-vos-videos-avec-le-pouvoir-de-votre-gpu/"><u>WinX HD Video Converter Professional - Convertissez, Modifiez Et Améliorez Facilement Vos Vidéos Avec Le Pouvoir De Votre GPU</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cutting-edge-vr-game-development-tools-for-2024/"><u>[New] Cutting-Edge VR Game Development Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-the-art-of-sync-free-obs-streaming/"><u>[Updated] Mastering the Art of Sync-Free OBS Streaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-next-level-3d-watching-ultimate-guide-to-blu-ray-players/"><u>[Updated] Next-Level 3D Watching Ultimate Guide to Blu-Ray Players</u></a></li>
+<li><a href="https://solve-help.techidaily.com/mp4avihevch265-winxvideo-ai/"><u>自由に使える動画編集・変換専用アプリを見つけよう - 無料MP4/AVI/HEVC(H265)へのシームレスな移行方法 | Winxvideo AI解説</u></a></li>
+<li><a href="https://solve-help.techidaily.com/vlc-for-japanese-download-and-installation-guide-for-windows-and-mac-users/"><u>最新版VLC for Japanese: Download & Installation Guide for Windows and Mac Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-civi-3-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Civi 3</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comparaison-dvd-blu-ray-et-fichier-numerique-quel-format-offre-le-meilleur-rapport-qualiteprix/"><u>Comparaison DVD, Blu-Ray Et Fichier Numérique : Quel Format Offre Le Meilleur Rapport Qualité/Prix?</u></a></li>
+<li><a href="https://solve-help.techidaily.com/die-besten-tipps-and-techniken-fur-das-mitschneiden-and-teilen-ihrer-spieleinheiten-in-fifa-18-mit-playstation-4-lernen-sie-mehr/"><u>Die Besten Tipps & Techniken Für Das Mitschneiden & Teilen Ihrer Spieleinheiten in FIFA 18 Mit PlayStation 4 - Lernen Sie Mehr!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/easy-guide-smoothing-out-shaky-footage-across-pc-mac-android-and-ios-devices/"><u>Easy Guide: Smoothing Out Shaky Footage Across PC, Mac, Android & iOS Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-13-pro-5g-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 13 Pro 5G Lock Screen Password?</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-use-winx-dvd-ripper-for-free-ultimate-faq-on-downloading-and-ripping-your-dvds/"><u>How to Use WinX DVD Ripper for Free - Ultimate FAQ on Downloading & Ripping Your DVDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-strategies-for-crafting-engaging-podcast-graphics/"><u>In 2024, Top 10 Strategies for Crafting Engaging Podcast Graphics</u></a></li>
+<li><a href="https://solve-help.techidaily.com/starting-population-in-1950-152-million/"><u>Starting Population (in 1950): ~152 Million</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-of-free-online-video-editing-tools/"><u>The Ultimate List of Free Online Video Editing Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transforming-youtubers-into-titans-with-key-insights-from-the-hub-for-2024/"><u>Transforming YouTubers Into Titans with Key Insights From the Hub for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/trasforma-i-tuoi-dvd-in-formato-hd-senza-problemi-tecniche-avanzate-di-ripping-e-correzione-h2650334hevc/"><u>Trasforma I Tuoi DVD in Formato HD Senza Problemi – Tecniche Avanzate Di Ripping E Correzione H.2#65033;4/HEVC</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-v-purse-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor V Purse</u></a></li>
+<li><a href="https://solve-help.techidaily.com/winx-dvd-ripper-free-download-and-tutorials-how-to-convert-your-dvd-flawlessly/"><u>WinX DVD Ripper: Free Download & Tutorials - How To Convert Your DVD Flawlessly</u></a></li>
 </ul></div>
 

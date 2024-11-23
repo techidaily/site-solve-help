@@ -1,7 +1,7 @@
 ---
 title: "Windows 11における「RescueaZilla」の利用手順: データバックアップ・リストアガイド"
-date: 2024-11-10T22:54:51.626Z
-updated: 2024-11-12T19:07:51.888Z
+date: 2024-11-16T16:30:23.189Z
+updated: 2024-11-23T08:34:50.530Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab0af95e72991a09011c46f8f.jpg
@@ -42,18 +42,15 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
@@ -101,9 +98,17 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -144,10 +149,7 @@ Step 5\. Once the process is complete, unplug the USB and restart the computer.
 Check if the system boots normally after performing these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
@@ -173,6 +175,10 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
 Exercise caution to avoid potential system errors when using this command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
 
@@ -209,10 +215,7 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suggestion: backup your crucial loading files in advance
@@ -231,21 +234,11 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -262,6 +255,10 @@ Was the provided information useful? Your vote is important to us!
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -284,10 +281,7 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
@@ -298,20 +292,10 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -329,24 +313,18 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/issecting-mr-beasts-fortune-portfolio/"><u>[New] Dissecting Mr. Beast's Fortune Portfolio</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1-access-complimentary-copyright-permissions-quickly/"><u>1. Access Complimentary Copyright Permissions Quickly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-examination-the-top-tier-ar-parrot-drone-20/"><u>2024 Approved Examination The Top-Tier AR Parrot Drone 2.0</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-impactful-video-campaigns-for-startups-for-2024/"><u>Crafting Impactful Video Campaigns for Startups for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evading-cyber-lies-the-danger-in-downloading-google-bard/"><u>Evading Cyber Lies: The Danger in Downloading Google Bard</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-resolving-frequent-game-interruptions-during-thaumaturge-play/"><u>Expert Advice: Resolving Frequent Game Interruptions During Thaumaturge Play</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phantom-v-fold-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Tecno Phantom V Fold Phone with Broken Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-smart-7-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Smart 7</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-fun-finding-hot-images-at-pexelscom/"><u>In 2024, Maximizing Fun Finding Hot Images at Pexels.com</u></a></li>
-<li><a href="https://solve-help.techidaily.com/transitioning-your-digital-library-a-guide-to-changing-devices-with-amazons-kindle/"><u>Transitioning Your Digital Library: A Guide to Changing Devices with Amazon's Kindle</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ultimate-guide-choosing-the-best-aaa-mp3-convertors-tested-for-you/"><u>Ultimate Guide: Choosing the Best AAA-MP3 Convertors Tested for You!</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ultimate-selection-5-top-ranked-mobile-apps-for-manga-enthusiasts-on-apple-devices/"><u>Ultimate Selection: 5 Top-Ranked Mobile Apps for Manga Enthusiasts on Apple Devices</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ultimate-tips-on-how-to-erase-ebooks-from-barnes-and-nobles-nook-device/"><u>Ultimate Tips on How to Erase Ebooks From Barnes & Noble's Nook Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-apples-revolutionary-chip-technology-the-impact-of-the-m1m2m3-on-your-next-purchase-decision/"><u>Understanding Apple's Revolutionary Chip Technology: The Impact of the M1/M2/M3 on Your Next Purchase Decision</u></a></li>
-<li><a href="https://solve-help.techidaily.com/unlock-your-books-how-to-get-free-drm-free-epub-files-without-hassle/"><u>Unlock Your Books: How to Get Free DRM-Free ePub Files Without Hassle</u></a></li>
-<li><a href="https://solve-help.techidaily.com/unlocking-kindle-potential-advanced-techniques-for-ebook-navigation-and-management/"><u>Unlocking Kindle Potential: Advanced Techniques for eBook Navigation & Management</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-hidden-savings-on-apples-ipad-pro-before-prime-day-top-reasons-why-you-should-act-now/"><u>Unveiling the Hidden Savings on Apple's iPad Pro Before Prime Day – Top Reasons Why You Should Act Now</u></a></li>
-<li><a href="https://solve-help.techidaily.com/unverschlusselte-inhalte-erstellen-anleitung-zum-entfernen-von-ibooks-drm-mit-kindle/"><u>Unverschlüsselte Inhalte Erstellen - Anleitung Zum Entfernen Von iBooks DRM Mit Kindle</u></a></li>
-<li><a href="https://solve-help.techidaily.com/user-agreement-discussions-understanding-terms-and-conditions/"><u>User Agreement Discussions: Understanding Terms and Conditions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-3-best-ios-video-editors-free-tips-and-guides-for-2024/"><u>[New] Top 3 Best iOS Video Editors FREE Tips & Guides for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-psychology-behind-effective-interviews/"><u>[Updated] In 2024, The Psychology Behind Effective Interviews</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-pathway-to-professional-pc-livestreams-with-tiktok-for-2024/"><u>[Updated] The Pathway to Professional PC Livestreams with TikTok for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-10-hd-webcams-essential-purchasing-tips/"><u>[Updated] Top 10 HD Webcams Essential Purchasing Tips</u></a></li>
+<li><a href="https://solve-help.techidaily.com/advanced-strategies-for-optimizing-website-visibility-in-search-results/"><u>Advanced Strategies for Optimizing Website Visibility in Search Results</u></a></li>
+<li><a href="https://solve-help.techidaily.com/calibre-tutorial-for-changing-epub-files-into-kea-formats-successfully/"><u>Calibre Tutorial for Changing EPUB Files Into KEA Formats Successfully</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comment-changer-un-fichier-pdf-en-format-epub-pour-lecture-sur-ipad/"><u>Comment Changer Un Fichier PDF en Format ePub Pour Lecture Sur iPad ?</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comparing-e-readers-kindle-ibooks-and-nook-showdown/"><u>Comparing E-Readers: Kindle, iBooks, and Nook Showdown</u></a></li>
+<li><a href="https://solve-help.techidaily.com/compatible-with-kindle-a-guide-to-using-your-sony-ebook-reader-for-amazons-digital-library/"><u>Compatible with Kindle: A Guide to Using Your Sony eBook Reader for Amazon's Digital Library</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-chatgpt-deliver-the-truth-or-are-its-responses-marred-with-fabrications/"><u>Does ChatGPT Deliver the Truth, or Are Its Responses Marred with Fabrications?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faux-friends-how-innocent-looking-apps-tax-your-windows-11/"><u>Faux Friends: How Innocent-Looking Apps Tax Your Windows 11</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/never-miss-a-moment-with-free-world-cup-live-streaming-for-2024/"><u>Never Miss a Moment With Free World Cup Live Streaming for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Itel A05s? | Dr.fone</u></a></li>
 </ul></div>
 

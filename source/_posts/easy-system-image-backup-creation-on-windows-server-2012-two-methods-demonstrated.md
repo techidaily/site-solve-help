@@ -1,7 +1,7 @@
 ---
 title: "Easy System Image Backup Creation on Windows Server 2012: Two Methods Demonstrated"
-date: 2024-11-10T16:22:48.164Z
-updated: 2024-11-12T17:21:36.980Z
+date: 2024-11-21T17:36:57.209Z
+updated: 2024-11-23T07:31:33.994Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f020283ad8022a46d57974e6.jpg
@@ -18,15 +18,27 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
 Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella barra di ricerca su Windows 10". Impara su AOMEI Backupper e misure preventive per evitare futuri inconvenienti con la barra di ricerca. Migliora subito la tua esperienza su Windows 10!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -43,18 +55,15 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -76,13 +85,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -101,6 +103,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -118,13 +124,6 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -157,13 +156,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -211,13 +203,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -231,6 +216,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -252,6 +241,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -272,13 +265,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -294,24 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fb-live-guide-audiences/"><u>[New] In 2024, FB Live Guide Audiences</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-intense-moment-capture-iphone-burst-mode/"><u>[New] In 2024, Intense Moment Capture IPhone Burst Mode</u></a></li>
-<li><a href="https://solve-help.techidaily.com/windows11/"><u>【高解像度・全面解説】Windows11用動画プレイヤーとして最適化されたフリーソフト:スローモーション、倍速再生などをご提案</u></a></li>
-<li><a href="https://article-posts.techidaily.com/a-detailed-guide-to-ending-your-linkedin-user-experience-for-2024/"><u>A Detailed Guide to Ending Your LinkedIn User Experience for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/convert-large-hd-videos-)1gb-into-compact-mb-format-at-no-cost-online/"><u>Convert Large HD Videos (>1GB) Into Compact MB Format at No Cost Online</u></a></li>
-<li><a href="https://solve-help.techidaily.com/easy-guide-to-downloading-and-using-imgbern-for-free-burning-any-dvd-or-protected-disc-into-iso-format/"><u>Easy Guide to Downloading and Using ImgBern for Free - Burning Any DVD or Protected Disc Into ISO Format</u></a></li>
-<li><a href="https://solve-help.techidaily.com/experience-superior-playback-the-winx-dvd-player-featuring-exceptional-video-and-audio-clarity/"><u>Experience Superior Playback: The WinX DVD Player Featuring Exceptional Video & Audio Clarity</u></a></li>
-<li><a href="https://solve-help.techidaily.com/expert-guide-why-winx-mediatrans-is-the-preferred-choice-for-effortless-cross-platform-content-movement-on-ios-and-pc/"><u>Expert Guide: Why WinX MediaTrans Is the Preferred Choice for Effortless Cross-Platform Content Movement on iOS & PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-gpts-capabilities-to-overhaul-health-systems/"><u>Exploring GPT's Capabilities to Overhaul Health Systems</u></a></li>
-<li><a href="https://solve-help.techidaily.com/i-3-migliori-lettori-dvd-senza-costi-per-windows-11-per-una-vista-ottimale-di-qualsiasi-filmato/"><u>I 3 Migliori Lettori DVD Senza Costi per Windows 11: Per Una Vista Ottimale Di Qualsiasi Filmato</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/manuale-pratico-per-il-software-windows-e-dvd-multimediali/"><u>Manuale Pratico per Il Software Windows E DVD Multimediali</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-class-on-resolving-common-graphics-card-problems/"><u>Master Class on Resolving Common Graphics Card Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997231521-minecraft-dungeon-pc-performance-issues-heres-how-to-stop-the-unwanted-interruptions/"><u>Minecraft Dungeon PC Performance Issues? Here's How to Stop the Unwanted Interruptions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-edge-40-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Edge 40? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/scarica-il-top-decoder-dvd-gratis-per-riprodurre-qualsiasi-dvd-senza-problemi/"><u>Scarica Il Top Decoder DVD Gratis per Riprodurre Qualsiasi DVD Senza Problemi</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ultimate-trick-scaling-down-videos-for-iphone-display-perfectly/"><u>Ultimate Trick: Scaling Down Videos for iPhone Display Perfectly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-tcls-32s325-the-ultimate-guide-to-a-stylish-brains-powered-roku-smart-led-tv-of-2019/"><u>Unveiling TCL's 32S325: The Ultimate Guide to a Stylish, Brains-Powered Roku Smart LED TV of 2019</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-went-wrong-insights-into-windows-10s-problematic-version-1607-update/"><u>What Went Wrong? Insights Into Windows 10'S Problematic Version 1ˈ607 Update</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-an-in-depth-examination-of-samsungs-picture-editing-tech/"><u>[New] 2024 Approved An In-Depth Examination of Samsung’s Picture Editing Tech</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-tactics-for-success-amidst-facebooks-algorithm-evolution/"><u>[New] In 2024, Tactics for Success Amidst Facebook’s Algorithm Evolution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-evaluating-mr-beasts-monetary-world/"><u>[Updated] In 2024, Evaluating Mr. Beast's Monetary World</u></a></li>
+<li><a href="https://solve-help.techidaily.com/2-no-cost-hevc-codec-transcoder-available-now-convert-h265hevc-videos-with-ease/"><u>2) No Cost HEVC Codec Transcoder Available Now - Convert H.265/HEVC Videos with Ease!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/4-proven-strategies-to-transform-your-email-list-into-revenue-with-massmail-solutions/"><u>4 Proven Strategies to Transform Your Email List Into Revenue with MassMail Solutions</u></a></li>
+<li><a href="https://solve-help.techidaily.com/cddvd-pagina-6/"><u>包括的ガイド：動画・音楽CD・DVDの再生手順一覧 - Pagina 6</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725287571261-dvd/"><u>解析: DVD記憶装置を自由に使える方法・無料ソフトと有料ソフトの比較 - 代わりのオプションあり！</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725284892627-dvd/"><u>DVD字幕转录技巧：自动制字幕解码方法</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-hyperx-cloud-alpha-microphone-malfunctions/"><u>Effective Solutions for HyperX Cloud Alpha Microphone Malfunctions</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-effortlessly-create-dvds-with-free-utilities-compatible-with-windows-7-the-best-picks-reviewed/"><u>How to Effortlessly Create DVDs with Free Utilities Compatible with Windows ([[7]]): The Best Picks Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-6s-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 6s Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-adding-permanent-subtitles-using-vlc-media-player/"><u>Step-by-Step Guide: Adding Permanent Subtitles Using VLC Media Player</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic-v2-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic V2? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://solve-help.techidaily.com/telechargez-le-logiciel-avance-de-rip-audio-dvd-extraction-non-perte-quality/"><u>Téléchargez Le Logiciel Avancé De Rip Audio DVD - Extraction Non-Perte Quality</u></a></li>
+<li><a href="https://solve-help.techidaily.com/understanding-handbrakes-anamorphic-support-a-beginners-guide/"><u>Understanding HandBrake's Anamorphic Support – A Beginner’s Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/winxdvd-utilisateur-ameliorer-sa-connaissance-avec-le-manuel-complet-explique/"><u>WinXDVD Utilisateur Améliorer Sa Connaissance Avec Le Manuel Complet Expliqué</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/your-guide-to-retracing-fbs-most-watched-videos-now-for-2024/"><u>Your Guide to Retracing FB’s Most-Watched Videos, Now for 2024</u></a></li>
 </ul></div>
 
