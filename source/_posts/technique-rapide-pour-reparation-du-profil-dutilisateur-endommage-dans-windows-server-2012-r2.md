@@ -1,7 +1,7 @@
 ---
 title: Technique Rapide Pour Réparation Du Profil D'Utilisateur Endommagé Dans Windows Server 2012 R2
-date: 2024-11-16T07:13:05.010Z
-updated: 2024-11-23T03:51:26.426Z
+date: 2024-11-26T18:08:44.964Z
+updated: 2024-12-01T23:05:26.700Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70dc520fe3fec90378bd8cb5b.jpg
@@ -27,10 +27,6 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -73,6 +69,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -109,10 +109,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -146,7 +142,7 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -175,10 +171,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -198,6 +190,10 @@ Scegli una destinazione per il backup e personalizza le impostazioni se necessar
 Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
@@ -222,7 +218,7 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -238,7 +234,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -252,7 +248,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -262,6 +258,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 [**Scarica Gratuito**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -280,22 +280,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>[New] 2024 Approved Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-ultimate-cyber-companion-tone-downloads-guide-for-2024/"><u>[Updated] Ultimate Cyber Companion Tone Downloads Guide for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1728466562932-7/"><u>運転手のためのフォーマット:ドライブ用7つの修復方法</u></a></li>
-<li><a href="https://solve-help.techidaily.com/easy-system-image-backup-creation-on-windows-server-2012-two-methods-demonstrated/"><u>Easy System Image Backup Creation on Windows Server 2012: Two Methods Demonstrated</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1728488586033-google-cloud/"><u>Google Cloudでシンプルかつ安全なデータバックアップ手順</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy Z Fold 5?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-breakthroughs-in-ergonomic-office-design-for-high-efficiency/"><u>In 2024, Breakthroughs in Ergonomic Office Design for High Efficiency</u></a></li>
-<li><a href="https://solve-help.techidaily.com/missing-page-alert-content-couldnt-be-located/"><u>Missing Page Alert: Content Couldn't Be Located</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-complexities-of-photo-hdr-in-photoshop-for-2024/"><u>Navigating the Complexities of Photo-HDR in Photoshop for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/on-the-go-fixer-mastering-portable-driver-easy-for-quick-solutions/"><u>On the Go Fixer: Mastering Portable Driver Easy for Quick Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-freeze-issues-in-the-windows-notepad-tool/"><u>Overcoming Freeze Issues in the Windows Notepad Tool</u></a></li>
-<li><a href="https://solve-help.techidaily.com/premier-tools-for-precise-ssd-imaging-flawless-data-duplication-apps/"><u>Premier Tools for Precise SSD Imaging: Flawless Data Duplication Apps</u></a></li>
-<li><a href="https://solve-help.techidaily.com/quick-solutions-resolve-system-image-not-found-in-windows-effortlessly/"><u>Quick Solutions: Resolve 'System Image Not Found' In Windows Effortlessly</u></a></li>
-<li><a href="https://solve-help.techidaily.com/regain-access-to-removed-media-a-guide-to-4-no-charge-techniques-for-restoring-video-files-on-dji-devices/"><u>Regain Access to Removed Media: A Guide to 4 No-Charge Techniques for Restoring Video Files on DJI Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-sawdust-into-art-a-revolutionary-3d-printing-tech-creates-beautiful-wooden-instruments-and-fixtures-zdnet/"><u>Transforming Sawdust Into Art: A Revolutionary 3D Printing Tech Creates Beautiful Wooden Instruments & Fixtures - ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/wie-man-filme-effizient-mit-oder-ohne-itunes-von-einem-laptop-auf-ein-ipad-ubertragt/"><u>Wie Man Filme Effizient Mit Oder Ohne iTunes Von Einem Laptop Auf Ein iPad Überträgt</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-vlog-confidently-like-popular-youtubers-for-2024/"><u>[Updated] How to Vlog Confidently Like Popular YouTubers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-cinematic-tones-beyond-basic-adjustments/"><u>2024 Approved Mastering Cinematic Tones Beyond Basic Adjustments</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1728476441522-dji/"><u>失われたDJIドローン映像・写真の回復手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/art-of-ai-interaction-top-5-online-lessons/"><u>Art of AI Interaction: Top 5 Online Lessons</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-6s-plus-how-to-unlock-a-disabled-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 6s Plus How to Unlock a Disabled Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/effortless-techniques-for-protecting-your-email-connections-a-guide-to-backing-up-your-outlook-address-book/"><u>Effortless Techniques for Protecting Your Email Connections - A Guide to Backing Up Your Outlook Address Book</u></a></li>
+<li><a href="https://solve-help.techidaily.com/guia-paso-a-paso-para-actualizar-su-disco-ssd-m2-sin-perder-configuracion-de-windows/"><u>Guía Paso a Paso Para Actualizar Su Disco SSD M.2 Sin Perder Configuración De Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/guide-on-purging-stored-videos-from-youtube-watchlater/"><u>Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy A14 4G Phone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/locating-your-steam-game-images-understanding-the-default-save-location-and-tips-for-retrieval-of-missing-screenshots/"><u>Locating Your Steam Game Images: Understanding the Default Save Location & Tips for Retrieval of Missing Screenshots</u></a></li>
+<li><a href="https://solve-help.techidaily.com/overcome-your-devices-incompatible-firmware-problem-with-these-4-proven-fixes/"><u>Overcome Your Device's Incompatible Firmware Problem with These 4 Proven Fixes</u></a></li>
+<li><a href="https://solve-help.techidaily.com/riconquista-file-eliminati-in-una-chiavetta-usb-gratuitamente-senza-bisogno-di-software/"><u>Riconquista File Eliminati in Una Chiavetta USB Gratuitamente, Senza Bisogno Di Software.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/strategies-for-securing-an-original-tiktok-hashtag-for-2024/"><u>Strategies for Securing an Original TikTok Hashtag for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-realme-narzo-60x-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://solve-help.techidaily.com/windows-friendly-guide-how-to-replace-motherboard-and-processor-effortlessly/"><u>Windows-Friendly Guide: How to Replace Motherboard and Processor Effortlessly</u></a></li>
 </ul></div>
 
