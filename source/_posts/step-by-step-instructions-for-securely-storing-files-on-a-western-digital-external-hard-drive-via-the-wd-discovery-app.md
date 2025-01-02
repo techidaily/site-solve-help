@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Securely Storing Files on a Western Digital External Hard Drive via the WD Discovery App
-date: 2024-12-25T20:03:30.403Z
-updated: 2024-12-30T16:31:00.708Z
+date: 2024-12-28T00:34:04.191Z
+updated: 2025-01-01T18:01:42.340Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8859a6a8995fd23a6d3c164e4eb7814defea1c5b86ac3b09d9d752ad915284f4.jpg
@@ -24,6 +24,10 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -43,10 +47,6 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
@@ -54,7 +54,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -78,7 +78,7 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -117,10 +117,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -140,7 +136,7 @@ Passo 4\. Attendi il Completamento:
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
@@ -203,10 +199,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -242,7 +234,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -255,6 +247,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -264,6 +260,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,24 +280,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-comprehensive-guide-to-making-gifs-from-youtube-tracks/"><u>[New] 2024 Approved A Comprehensive Guide to Making GIFs From YouTube Tracks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-tune-transfer-the-ultimate-selection-of-free-android-apps-for-youtube-melodies/"><u>[New] 2024 Approved Tune Transfer The Ultimate Selection of Free Android Apps for YouTube Melodies</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-custom-coverage-made-simple-fast-track-your-youtube-shorts-design-for-2024/"><u>[Updated] Custom Coverage Made Simple Fast-Track Your YouTube Shorts Design for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-g24-power-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-cooling-solution-for-your-pc-an-in-depth-review-of-the-topmate-c302-pad/"><u>Budget-Friendly Cooling Solution for Your PC: An In-Depth Review of the TopMate C302 Pad</u></a></li>
-<li><a href="https://solve-help.techidaily.com/easily-update-your-windows-alerts-master-notification-preferences-via-control-panel-tips-by-yl-software/"><u>Easily Update Your Windows Alerts: Master Notification Preferences via Control Panel - Tips by YL Software</u></a></li>
-<li><a href="https://solve-help.techidaily.com/effective-techniques-for-streamlining-system-startup-with-selective-disabling-of-auto-launched-programs-tips-from-experts-at-yl-software/"><u>Effective Techniques for Streamlining System Startup with Selective Disabling of Auto-Launched Programs – Tips From Experts at YL Software</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ensuring-seamless-operation-of-your-pc-with-effective-strategies-yl-tech-advice/"><u>Ensuring Seamless Operation of Your PC with Effective Strategies - YL Tech Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-performance-to-unresponsive-bose-headphonesspeakers/"><u>Expert Advice on Restoring Performance to Unresponsive Bose Headphones/Speakers</u></a></li>
-<li><a href="https://solve-help.techidaily.com/fix-a-sluggish-computer-quickly-with-yl-software-solutions/"><u>Fix a Sluggish Computer Quickly with YL Software Solutions</u></a></li>
-<li><a href="https://solve-help.techidaily.com/how-to-fix-a-malfunctioning-network-adapter-expert-guide-by-yl-computing/"><u>How to Fix a Malfunctioning Network Adapter: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://solve-help.techidaily.com/how-to-fix-low-quality-printouts-from-your-printer-expert-tips-from-yl-computing/"><u>How To Fix Low-Quality Printouts From Your Printer: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/peak-performance-memory-for-a7s-ii-for-2024/"><u>Peak Performance Memory for A7S II for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-solutions-by-toms-systems/"><u>Pioneering Computer Solutions by Tom's Systems</u></a></li>
-<li><a href="https://solve-help.techidaily.com/solving-your-pcs-graphic-glitches-uncover-the-reason-behind-malfunctioning-gpu-guided-insights-by-yl-computing/"><u>Solving Your PC's Graphic Glitches: Uncover the Reason Behind Malfunctioning GPU - Guided Insights by YL Computing</u></a></li>
-<li><a href="https://solve-help.techidaily.com/step-by-step-guide-altering-images-made-easy-with-yl-computing-tools/"><u>Step-by-Step Guide: Altering Images Made Easy with YL Computing Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-poco-f5-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Poco F5 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ultimate-guide-to-premium-system-enhancement-utilities-by-yl-software-elevate-your-pc-performance-today/"><u>Ultimate Guide to Premium System Enhancement Utilities by YL Software - Elevate Your PC Performance Today!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-iphones-full-potential-4-pro-tips-for-brightening-hdr-in-premiere-for-2024/"><u>Unlock iPhone's Full Potential 4 Pro Tips for Brightening HDR in Premiere for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-guide-to-boost-your-telegram-marketing-efforts-for-2024/"><u>[New] Guide to Boost Your Telegram Marketing Efforts for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-resource-audio-recommendations-for-unboxing-content-creators/"><u>[New] In 2024, Ultimate Resource Audio Recommendations for Unboxing Content Creators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-showdown-comparing-standalone-browser-use-to-powered-up-plugin-alternatives/"><u>ChatGPT Showdown: Comparing Standalone Browser Use to Powered Up Plugin Alternatives</u></a></li>
+<li><a href="https://solve-help.techidaily.com/dvdwindows-10/"><u>DVDコピーへの解析:Windows 10で利用可能な基本的な方法</u></a></li>
+<li><a href="https://solve-help.techidaily.com/easy-methods-for-transforming-wmv-videos-to-mp4-with-the-power-of-ffmpeg/"><u>Easy Methods for Transforming WMV Videos to MP4 with the Power of FFmpeg</u></a></li>
+<li><a href="https://solve-help.techidaily.com/effortless-conversion-of-wma-audio-tracks-to-aac-the-ultimate-guide/"><u>Effortless Conversion of WMA Audio Tracks to AAC - The Ultimate Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/five-solutions-how-to-resolve-dvd-playback-issues-in-windows-11/"><u>Five Solutions: How to Resolve DVD Playback Issues in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-downloads-get-your-startech-usb-vga-graphics-adapter-drivers-now/"><u>Free Downloads: Get Your StarTech USB VGA Graphics Adapter Drivers Now</u></a></li>
+<li><a href="https://solve-help.techidaily.com/guide-to-uploading-gifs-on-instagram-using-your-desktop-or-mobile-device/"><u>Guide to Uploading GIFs on Instagram Using Your Desktop or Mobile Device</u></a></li>
+<li><a href="https://solve-help.techidaily.com/gyao/"><u>Gyaoビデオクリップを安全に保管するための便利方法：基本的ガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2010-files-on-mac-complete-guide-by-stellar-guide/"><u>How to Recover Deleted Excel 2010 Files on Mac Complete Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y78-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y78 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-c51-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme C51 online without jailbreak</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-add-green-screen-effects-in-phhotoshop/"><u>Updated In 2024, How to Add Green Screen Effects In Phhotoshop</u></a></li>
 </ul></div>
 
